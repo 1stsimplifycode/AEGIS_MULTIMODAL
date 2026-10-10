@@ -1,0 +1,950 @@
+{
+ "items": [
+  {
+   "item": 19,
+   "instrument_candidates": [
+    "HDFCBANK"
+   ],
+   "number": 700.0,
+   "sentence_window": "…xcitement. Infosys, TCS, Vipro all of them are you know up and about in today's trading session and Kot Mandra Banks news has come in. The street is optimistic that we'll hear about HDFC Bank as well soon. Remember the stock ran away from around sub 700 rupees all the way to around 750 rupees. But in the recent market you know weakness did come back down. So all those heavy weights well they are p…",
+   "number_found_in_window": true
+  },
+  {
+   "item": 52,
+   "instrument_candidates": [
+    "^NSEI"
+   ],
+   "number": 22400.0,
+   "sentence_window": "So it's like butter through hot knife through butter right now. You know, look at the nifty down 250 points. The nifty bank which was holding holding marginally in the green is now down by almost 160 points as well. So below 22400 for the first time since April 2nd as well. The IT pack as well which is holding up is now sitting with a gain of just about a third of a percen…",
+   "number_found_in_window": true
+  },
+  {
+   "item": 90,
+   "instrument_candidates": [
+    "^NSEI"
+   ],
+   "number": 22600.0,
+   "sentence_window": "We already went below 22,600. There's there's some kind of supports coming in at around 22,600 on the nifty but I I don't know if they're holding in any meaningful fashion.…",
+   "number_found_in_window": true
+  },
+  {
+   "item": 37,
+   "instrument_candidates": [
+    "^NSEI"
+   ],
+   "number": 22565.0,
+   "sentence_window": "…d and of course I mean you know the market view coming through as well that's Sep from Mcquaryy with some perspective we're down about 50 points so there is a bit of a bounce bouncy bounce which is coming through but let's hope let's see if it stays 22565 is where the nifty is at guys >> all right let's uh invite on the show Canara Bank uh co the stock has slumped in 2026 so far down over 20%. Uh …",
+   "number_found_in_window": true
+  },
+  {
+   "item": 54,
+   "instrument_candidates": [
+    "^BSESN"
+   ],
+   "number": 72536.0,
+   "sentence_window": "Uh the Sensex is down about a third of a percent 72,536.",
+   "number_found_in_window": true
+  },
+  {
+   "item": 91,
+   "instrument_candidates": [
+    "^NSEI"
+   ],
+   "number": 25000.0,
+   "sentence_window": "…hat if you look at long-term nifty keer last 20 years nifty 14% keger which effectively means nifty has doubled every 5 years. I still hold to my view. If you go back and see between December 20 and December 25, Nifty doubled from 12 a half th000 to 25,000.",
+   "number_found_in_window": true
+  },
+  {
+   "item": 93,
+   "instrument_candidates": [
+    "IOC"
+   ],
+   "number": 200.0,
+   "sentence_window": "…h counters would you deploy money now >> no not both uh no ather maybe on maybe 10 15% down we can start equity >> okay >> okay the next one is coming in and this is uh from Prattab Jada who's writing us from Nashik asking about IOC Swati is holding 200 odd shares at the levels of 94 can you average at the current market price is what he's saying or should you book out?",
+   "number_found_in_window": true
+  },
+  {
+   "item": 47,
+   "instrument_candidates": [
+    "^NSEI"
+   ],
+   "number": 22550.0,
+   "sentence_window": "…es coming in from the auto pack. Bajage auto taking it down by 27 points. You have Eminem taking it down by about 20 points. And then you have the underperformance of Reliance as well. So all these factors weighing in on the nifty as we speak around 22550 is where the falcrum is placed for the market. Why do I say that? Because on the way up 22600 call writers are fairly active telling you around …",
+   "number_found_in_window": true
+  },
+  {
+   "item": 26,
+   "instrument_candidates": [
+    "PERSISTENT"
+   ],
+   "number": 5540.0,
+   "sentence_window": "…llish hammer kind of formation getting established and that's particular support at 5350 was well defended. So we are expecting a good revival in this particular counter. A stable support at 53,000 is evident. uh we are expecting a move back towards 5540 and hence we are recommending building fresh long positions in persistent systems. One can keep a stop loss at 5280 on closing basis and review t…",
+   "number_found_in_window": true
+  },
+  {
+   "item": 97,
+   "instrument_candidates": [
+    "HDFCBANK"
+   ],
+   "number": 706.0,
+   "sentence_window": "…ew is a little bit cautious in this particular counter. let his stock settle down at a low levels of at least four to 5% on the downside and you can think about the fresh loans. H the next one's uh you know from Vijay he's holding on to HDFC bank at 706 asking a 2-year view but I think tapan we are all waiting for the announcement of the CEO I think should you just hold on till till then probably …",
+   "number_found_in_window": true
+  },
+  {
+   "item": 102,
+   "instrument_candidates": [
+    "APOLLOHOSP",
+    "APOLLOTYRE"
+   ],
+   "number": 8000.0,
+   "sentence_window": "… Basically I think uh one should book out if they are in gains. Yeah, >> especially in like the names like 40s, Kim and Maidanta, Apollo Hospital. So, only two stocks which I am seeing right now the trend is up is Apollo Hospital which will again uh 8,000 below uh the trend will change and the Maidanta basically uh wherein the trend change levels are 1 2 3 4 uh all other stocks are like in a downt…",
+   "number_found_in_window": true
+  },
+  {
+   "item": 3,
+   "instrument_candidates": [
+    "^NSEI"
+   ],
+   "number": 22700.0,
+   "sentence_window": "…w data points that we're tracking. At the same time we will wrap up on this edition of chart busters the news that the market continues to flit between red and green right now. The Sensex holding marginally in the green with the nifty slightly below 22700.",
+   "number_found_in_window": true
+  },
+  {
+   "item": 34,
+   "instrument_candidates": [
+    "^NSEI"
+   ],
+   "number": 22400.0,
+   "sentence_window": ">> The smidge of recovery that we saw on the nifty has been sold into so vehemently. We've seen the nifty fall below the 22400 mark as well right now.",
+   "number_found_in_window": true
+  },
+  {
+   "item": 29,
+   "instrument_candidates": [
+    "^NSEI"
+   ],
+   "number": 22550.0,
+   "sentence_window": "still 70 points lower on uh the nifty as of now holding on to those 25 22550 levels as we speak. The one stock that has come off slightly was bucking the trend earlier in the day is Kotak Maidra Bank. At one point the sto…",
+   "number_found_in_window": true
+  },
+  {
+   "item": 8,
+   "instrument_candidates": [
+    "^NSEI"
+   ],
+   "number": 22800.0,
+   "sentence_window": ">> Welcome back to halftime report on CNBC TV18. Nifty uh is you know touched the 22,800 mark came off a slight bit but yes that's the day highest point right now for the nifty50 around the 22,800 levels is what it's now trading at.…",
+   "number_found_in_window": true
+  },
+  {
+   "item": 83,
+   "instrument_candidates": [
+    "^NSEBANK"
+   ],
+   "number": 55500.0,
+   "sentence_window": "…n KOTUK today and I'm going perhaps a little off technicals right now right just general what we saw on Kotak today after the announcement of that leadership change if that kind of a reaction were to come on HDFC bank you're looking at bank nifty 55 55500 rather easily right with with the kind of upswing so I remain a little more constructive it's just that you know in a market like this a fresh l…",
+   "number_found_in_window": true
+  },
+  {
+   "item": 40,
+   "instrument_candidates": [
+    "^BSESN"
+   ],
+   "number": 72000.0,
+   "sentence_window": "…are contributing on the front foot so we are expecting that this particular support at 22,500 may hold for this particular weekend and we may see a relief rally unfolding towards 2275800 thereabout uh when we look at the Sensex data as well you know 72,000 looks like a promising in support and on the higher side 72,500 looks like a decent resistance but going forward even here we are expecting tha…",
+   "number_found_in_window": true
+  },
+  {
+   "item": 67,
+   "instrument_candidates": [
+    "^NSEI"
+   ],
+   "number": 22700.0,
+   "sentence_window": "22 600 650 at the lower levels, 22700 to 800 at the upper level is what we'll watch out for. As of now, the Nifty continues to hold on to 22700. A bit of a decline that we're seeing …",
+   "number_found_in_window": true
+  },
+  {
+   "item": 56,
+   "instrument_candidates": [
+    "^NSEI"
+   ],
+   "number": 22589.0,
+   "sentence_window": "22,589 is currently where the nifty is at. So, it's a rapid fall that we're seeing down around 8/10 of a percent. We'll do one thing, we'll take a sho…",
+   "number_found_in_window": true
+  },
+  {
+   "item": 94,
+   "instrument_candidates": [
+    "IOC"
+   ],
+   "number": 94.0,
+   "sentence_window": "…y now >> no not both uh no ather maybe on maybe 10 15% down we can start equity >> okay >> okay the next one is coming in and this is uh from Prattab Jada who's writing us from Nashik asking about IOC Swati is holding 200 odd shares at the levels of 94 can you average at the current market price is what he's saying or should you book out?",
+   "number_found_in_window": true
+  },
+  {
+   "item": 87,
+   "instrument_candidates": [
+    "HDFCBANK"
+   ],
+   "number": 680.0,
+   "sentence_window": "you've turned positive on HDFC Bank because the long-term supports are at 680 as you've pointed out. If you look at Avenue Supermarkets, it's underperformed for a fairly long period of time. The only and it's it's actually d…",
+   "number_found_in_window": true
+  },
+  {
+   "item": 105,
+   "instrument_candidates": [
+    "^NSEI"
+   ],
+   "number": 24616.6,
+   "sentence_window": "…volumes momentum relative strength I think the the upsides to about you know 1900 2,000 levels could welcome about you know as and when the market stabilizes >> we've closed for the FNO most stocks in the cash market. I pull up the benchmark Nifty50 24,616.6 and so pretty much at the low point of the day if I'm not mistaken. Pull that up. Pull the chart up if we can. Uh yeah, pretty much at the lo…",
+   "number_found_in_window": true
+  },
+  {
+   "item": 55,
+   "instrument_candidates": [
+    "^NSEI"
+   ],
+   "number": 22700.0,
+   "sentence_window": "Kofforge sees [music] a up move of about 1 and a half%. But it's a muted start and the Nifty is now closer to 22,700 with a 70 point [music] down tick. It is a muted start and uh it started out flat. Thereafter we saw a bit of a sell off and that's exactly wha…",
+   "number_found_in_window": true
+  },
+  {
+   "item": 59,
+   "instrument_candidates": [
+    "^NSEI"
+   ],
+   "number": 22585.0,
+   "sentence_window": "…p with a gain of around 6/10 of a percent. For the markets, there's a little bit of a pullback which has taken place for the nifty. So, it's above 22,600 as we speak. So, Nifty is now down around 160 odd points. Remember the low point of the day was 22,585 or thereabout. So, there's been a little bit of a recovery which has taken place from those levels. for the Bank Nifty as well. It is a sub 1% …",
+   "number_found_in_window": true
+  },
+  {
+   "item": 9,
+   "instrument_candidates": [
+    "^NSEI"
+   ],
+   "number": 22700.0,
+   "sentence_window": "I'm Arunati Raman and with me as always Hermas Vatakia Hermas good afternoon seeing a recovery there in the markets now the nifty above that 22,700 mark near the 800 mark at this point right so uh good going the bulls will take that >> take that and good afternoon to you as well Arandati an…",
+   "number_found_in_window": true
+  },
+  {
+   "item": 77,
+   "instrument_candidates": [
+    "SWIGGY"
+   ],
+   "number": 250.0,
+   "sentence_window": "Uh has 250 shares at the levels of 390.",
+   "number_found_in_window": true
+  },
+  {
+   "item": 104,
+   "instrument_candidates": [
+    "^NSEBANK"
+   ],
+   "number": 55500.0,
+   "sentence_window": "…w an HDFC bank move is actually a positive sign by the way because if uh you know if and when the clarity returns on you know the leadership and that gives you any kind of bump up on the bank nifty then that hurdle that I was talking about of 55,000 55,500 on bank nifty could get taken out and that's a positive sign so I'm actually quite uh you know happy the fact that you know bank nifty is gaini…",
+   "number_found_in_window": true
+  },
+  {
+   "item": 96,
+   "instrument_candidates": [
+    "SBIN"
+   ],
+   "number": 1000.0,
+   "sentence_window": "…right time to buy into SBI at this point of time. Uh Tapan we've seen and I think we spoke about the large cap space in Bharti was a query in the first half of the show. I think the logic applies to SBI too that it has seen correction now below that 1,000 rupee mark. Is it a good time to enter? Would you stagger buy if even at this price?",
+   "number_found_in_window": true
+  },
+  {
+   "item": 30,
+   "instrument_candidates": [
+    "^NSEI"
+   ],
+   "number": 22550.0,
+   "sentence_window": "…es coming in from the auto pack. Bajage Auto taking it down by 27 points. You have Eminem taking it down by about 20 points. And then you have the underperformance of Reliance as well. So all these factors weighing in on the nifty as we speak around 22550 is where the falcrum is placed for the market. Why do I say that? Because on the way up 22600 call writers are fairly active. Telling you around…",
+   "number_found_in_window": true
+  },
+  {
+   "item": 16,
+   "instrument_candidates": [
+    "^NSEI"
+   ],
+   "number": 22650.0,
+   "sentence_window": "Well, it looked like a much better screen at 1:00 when the markets had climbed above 22,800 and after that there [music] has been a sell-off. So, in fact, the nifty as we speak is down 68 points [music] below 22,650 as well.",
+   "number_found_in_window": true
+  },
+  {
+   "item": 6,
+   "instrument_candidates": [
+    "^NSEI"
+   ],
+   "number": 22700.0,
+   "sentence_window": ">> Welcome back to Half Time Report and CNBC. ACTV 18 Nifty still holding on to 22,700 levels but hospital stocks they are under pressure today. This has come in as the Supreme Court is questioning the steep markup of cancer drugs…",
+   "number_found_in_window": true
+  },
+  {
+   "item": 63,
+   "instrument_candidates": [
+    "^NSEI"
+   ],
+   "number": 22700.0,
+   "sentence_window": ">> And just in a matter of minutes, we have seen a very sharp recovery from the lows of the day for the markets. The Nifty is now back near the 22700 mark. So it's 110 point recovery from the lows of the day. The midcap index is up 400 points from the day's low as well. So it's a one-way move …",
+   "number_found_in_window": true
+  },
+  {
+   "item": 31,
+   "instrument_candidates": [
+    "^NSEI"
+   ],
+   "number": 22555.0,
+   "sentence_window": "Welcome back. 22,555 on the Nifty, 63 points down, while the Sensex is lower by 115 points in the last one hour. We haven't incrementally deteriorated, but nor has …",
+   "number_found_in_window": true
+  },
+  {
+   "item": 79,
+   "instrument_candidates": [
+    "^NSEI"
+   ],
+   "number": 22400.0,
+   "sentence_window": "So that is somewhere slightly uh positive as we speak. But clearly sharp fall in Nifty50. We are breaking the 22,400 mark down over 1% today. 200 points is the kind of losses that we've seen from the day's highs. [music] In fact, further down in the last 6 min…",
+   "number_found_in_window": true
+  },
+  {
+   "item": 23,
+   "instrument_candidates": [
+    "^BSESN"
+   ],
+   "number": 72000.0,
+   "sentence_window": "… contributing on the front foot so we are expecting that this particular support at 22,500 may hold for this particular weekend and we may see a relief rally unfolding towards 22,750 800 thereabout uh when we look at the Sensex data as well you know 72,000 looks like a promising support and on the higher side 72,500 looks like a decent resistance but going forward even here we are expecting that t…",
+   "number_found_in_window": true
+  },
+  {
+   "item": 42,
+   "instrument_candidates": [
+    "PERSISTENT"
+   ],
+   "number": 5440.0,
+   "sentence_window": "…r. A stable support at 53,000 is evident. uh we are expecting a move back towards 5540 and hence we are recommending building fresh long positions in persistent systems. One can keep a stop loss at 5280 on closing basis and review their positions at 5440 5540. Uh the other stock on our radar is Indigo. Now after a long uh declining trend we have seen some consolidation phase in the last few tradin…",
+   "number_found_in_window": true
+  },
+  {
+   "item": 58,
+   "instrument_candidates": [
+    "^NSEI"
+   ],
+   "number": 22600.0,
+   "sentence_window": "Kalyan rulers holding up with a gain of around 6/10 of a percent. For the markets, there's a little bit of a pullback which has taken place for the nifty. So, it's above 22,600 as we speak. So, Nifty is now down around 160 odd points. Remember the low point of the day was 22,585 or thereabout. So, there's been a little…",
+   "number_found_in_window": true
+  },
+  {
+   "item": 43,
+   "instrument_candidates": [
+    "PERSISTENT"
+   ],
+   "number": 5540.0,
+   "sentence_window": "…bullish hammer kind of formation getting established and this particular support at 5350 was well defended. So we are expecting a good revival in this particular counter. A stable support at 53,000 is evident. uh we are expecting a move back towards 5540 and hence we are recommending building fresh long positions in persistent systems. One can keep a stop loss at 5280 on closing basis and review t…",
+   "number_found_in_window": true
+  },
+  {
+   "item": 69,
+   "instrument_candidates": [
+    "^NSEI"
+   ],
+   "number": 22700.0,
+   "sentence_window": ">> Yeah, thank you for having me on the show. Uh let's go with Nifty50 first. I mean if you look at Nifty50 uh today Nifty has recovered very sharply from 22,569 level and we are trading somewhere around 22700 level. Now my sense over here is that if you see option chain data 22,800 level will act as a strong resence level to be washed out. So any rise…",
+   "number_found_in_window": true
+  },
+  {
+   "item": 64,
+   "instrument_candidates": [
+    "^NSEI"
+   ],
+   "number": 22570.0,
+   "sentence_window": "Today's low becomes an important mark to track. 22570 is what the low on the nifty is and the advanced decline as well. When we started trade we had about 500 to 600 stocks which were in the green. …",
+   "number_found_in_window": true
+  },
+  {
+   "item": 39,
+   "instrument_candidates": [
+    "LEMONTREE"
+   ],
+   "number": 76.0,
+   "sentence_window": ">> Welcome back. Uh I think markets have come up uh a little bit but not by much right. I mean 45 or points uh lower 22,500 and uh 76 you know just put a lemon tree uh the stock should come up on your screen. It's up 5%. I mean I think uh and a lot of these gains have actually com…",
+   "number_found_in_window": true
+  },
+  {
+   "item": 51,
+   "instrument_candidates": [
+    "^NSEI"
+   ],
+   "number": 22400.0,
+   "sentence_window": ">> The smidge of recovery that we saw on the Nifty has been sold into so vehemently. We've seen the nifty fall below the 22400 mark as well right now.",
+   "number_found_in_window": true
+  },
+  {
+   "item": 65,
+   "instrument_candidates": [
+    "^NSEI"
+   ],
+   "number": 22740.0,
+   "sentence_window": "So 20 22,740 is where we are at. And there's been a good good improvement which has come in for the advanced decline ratio. So currently standing at almost …",
+   "number_found_in_window": true
+  },
+  {
+   "item": 5,
+   "instrument_candidates": [
+    "^NSEBANK"
+   ],
+   "number": 54765.0,
+   "sentence_window": "… we speak it's splittering. So it's it's been very choppy today. Bank Nifty now that is the you know better part of the story in the markets today that is holding up. The bank nifty is now trading with gains of almost 300 points as we speak at about 54,765.",
+   "number_found_in_window": true
+  },
+  {
+   "item": 71,
+   "instrument_candidates": [
+    "^NSEI"
+   ],
+   "number": 22000.0,
+   "sentence_window": ">> Welcome back to Halime report on CNBC TV8. Meanwhile, Nifty again has come off from the day's high and it's seeing a fall 23,000 uh 22,000 pardon 22,672 is where the nifty is trading at. So, will be key to watch out for where it's going to be headed from here on. But let's talk abo…",
+   "number_found_in_window": true
+  },
+  {
+   "item": 75,
+   "instrument_candidates": [
+    "^NSEI"
+   ],
+   "number": 22700.0,
+   "sentence_window": "…hat we do is first track all the top stories that we're tracking this afternoon and thereafter we talk about all the individual stocks that we are tracking as well the market continues to trade with cuts as recovery stalled the nifty trades near the 22700 mark it and FMCG along with consumer durables drag the most while Pharma Metals buck the trend is the midcaps which are lower by about half a pe…",
+   "number_found_in_window": true
+  },
+  {
+   "item": 11,
+   "instrument_candidates": [
+    "TMPV"
+   ],
+   "number": 357.0,
+   "sentence_window": ">> Okay. Uh we'll keep an eye out on those levels over there. Let's move on to the next query. Then we have Subramanyan who's writing to us from Bangalore. He's holding 20 shares of Tata Motors PV. 357 is the bri price. So making a loss on this one. Now he also along with that got shers of Tata Motor CV. So I think uh during the time when Tata Mo…",
+   "number_found_in_window": true
+  },
+  {
+   "item": 98,
+   "instrument_candidates": [
+    "^NSEI"
+   ],
+   "number": 22700.0,
+   "sentence_window": "…hat, let's take a very quick look at the markets. And it seems like it is a very bad day still for the Nifty. When you see your screens, you can see that 94 odd point down tick coming in for the Nifty50. and not really managing to sustain above that 22,700 level despite that stuck recovery that you had coming in around noon. When you talk about Sensex as well, that cut is actually much deeper when…",
+   "number_found_in_window": true
+  },
+  {
+   "item": 78,
+   "instrument_candidates": [
+    "RBLBANK"
+   ],
+   "number": 395.0,
+   "sentence_window": "…ding above all its short and medium-term DMAs and it's also holding a crucial uh support of 400 uh since the past I think 3 weeks. So there is a a good low-risk setup and I would advise buying RBL bank at current levels keeping a stop loss of around 395 and hopefully in October expiry we may see a new alltime high.",
+   "number_found_in_window": true
+  },
+  {
+   "item": 82,
+   "instrument_candidates": [
+    "^NSEI"
+   ],
+   "number": 23000.0,
+   "sentence_window": "technical reason is that you know how we discussed previously that 23,000 major support zone to be uh honest you know I wasn't even I wasn't expecting the nifty to fall so hard so fast and come to these levels so quic…",
+   "number_found_in_window": true
+  },
+  {
+   "item": 20,
+   "instrument_candidates": [
+    "^NSEI"
+   ],
+   "number": 22565.0,
+   "sentence_window": "…d and of course I mean you know the market view coming through as well that's Sep from Mcquaryy with some perspective we're down about 50 points so there is a bit of a bounce bouncy bounce which is coming through but let's hope let's see if it stays 22565 is where the nifty is at guys >> all right let's uh invite on the show Canara Bank uh co the stock has slumped in 2026 so far down over 20%. Uh …",
+   "number_found_in_window": true
+  },
+  {
+   "item": 25,
+   "instrument_candidates": [
+    "PERSISTENT"
+   ],
+   "number": 5440.0,
+   "sentence_window": "…r. A stable support at 53,000 is evident. uh we are expecting a move back towards 5540 and hence we are recommending building fresh long positions in persistent systems. One can keep a stop loss at 5280 on closing basis and review their positions at 5440 5540. Uh the other stock on our radar is Indigo. Now after a long uh declining trend we have seen some consolidation phase in the last few tradin…",
+   "number_found_in_window": true
+  },
+  {
+   "item": 101,
+   "instrument_candidates": [
+    "DLF"
+   ],
+   "number": 800.0,
+   "sentence_window": "…f new buildings in prime locations. Uh so our supply is secured for the next 3 years. All the large developers of the country are also now on our platform whether it's Hanandani, Tata Realy, DLF, Panchil, Satwa and of course we today serve more than 800 large logos spread across fortune 500 companies, Forbes 2000 companies, MNC's, lot of Indian conglomerates. So we are seeing this entire uh flywhe…",
+   "number_found_in_window": true
+  },
+  {
+   "item": 45,
+   "instrument_candidates": [
+    "SJVN"
+   ],
+   "number": 52.0,
+   "sentence_window": "…ay and yet another day when we have had a big listing pop today. Money View is up 70% from its issue price and Avon steals has come off listed at around about a 13 14% premium is off those highs still holding on about 3% advance and lastly stocks at 52 week lows no stopping the slide in PB fintech another 4% shaved off and mind you now it's only 40 rupees away from its IPO price that was 980 so th…",
+   "number_found_in_window": true
+  },
+  {
+   "item": 12,
+   "instrument_candidates": [
+    "TMPV"
+   ],
+   "number": 357.0,
+   "sentence_window": ">> All right. So stay invested is the view coming in there. But but Vashali, what's your view? 20 shares of Tata Motors PV at 357. He got these shares along with Tata Motors CV while holding Tata Motors. Hold or sell? What's the call here on that front and any targets to watc…",
+   "number_found_in_window": true
+  },
+  {
+   "item": 85,
+   "instrument_candidates": [
+    "^NSEI"
+   ],
+   "number": 22500.0,
+   "sentence_window": "Good afternoon. We are watching the afternoon edition of our profit with me Somit Zkar. In the last half an hour we have seen a strong uh up coming in in the market. Overall 80 odd points is what we have seen. Uh now the nifty is holding above the 22,500 level on a comfortable basis. uh if you look at the stocks that have been gaining or that have been holding the nifty higher. Reliance Industri…",
+   "number_found_in_window": true
+  },
+  {
+   "item": 41,
+   "instrument_candidates": [
+    "^NSEI"
+   ],
+   "number": 23000.0,
+   "sentence_window": "…it's a good time wherein some long commitments can be you know deployed uh the short-term view may be from a pullback perspective the broader trend needs to change and that particular change will only be evident once Nifty starts trending above that 23,000 mark.",
+   "number_found_in_window": true
+  },
+  {
+   "item": 44,
+   "instrument_candidates": [
+    "^NSEI"
+   ],
+   "number": 23000.0,
+   "sentence_window": ">> All right take that point Sachi. Thanks a lot for that. So long on the index only after 23,000 on the Nifty. Until then, it is just a bounce. But individual stocks, they offer compelling opportunities. And we do have persistent and indigo…",
+   "number_found_in_window": true
+  },
+  {
+   "item": 73,
+   "instrument_candidates": [
+    "^NSEI"
+   ],
+   "number": 22679.0,
+   "sentence_window": ">> Welcome back. Well, for the Nifty, 22,679 is currently where it's at. In terms of specific stocks which are managing to hold up, we've been mentioning that a lot of the pharmaceutical s…",
+   "number_found_in_window": true
+  },
+  {
+   "item": 35,
+   "instrument_candidates": [
+    "^NSEI"
+   ],
+   "number": 22400.0,
+   "sentence_window": "So it's like butter through sorry hot knife through butter right now. You know look at the nifty down 250 points. The nifty bank which is holding holding marginally in the green is now down by almost 160 points as well. So below 22400 for the first time since April 2nd as well. The IT pack as well which is holding up is now sitting with a gain of just about a third of a percen…",
+   "number_found_in_window": true
+  },
+  {
+   "item": 13,
+   "instrument_candidates": [
+    "TMPV"
+   ],
+   "number": 300.0,
+   "sentence_window": ">> So well for now I would just taking at take it as a trading strategy because the trend is really down. So I would say yes bounceback can take you to 300 310 levels as far as TMPV is concerned and Tata Motor CV also my view remains the same that it could be good for a bounce back actually we need to…",
+   "number_found_in_window": true
+  },
+  {
+   "item": 62,
+   "instrument_candidates": [
+    "^NSEBANK"
+   ],
+   "number": 53928.0,
+   "sentence_window": "…on your screen. The Sensex also trading with cuts of almost 600 points and there's absolutely no place to hide. Pharma is one pack as a whole which is relatively holding up but it's red across the screen. The Bank Nifty below that 54,000 mark now at 53,928 as we speak. The midcap index seen a smidge of a recovery again but still trading with cuts of almost 8/10 of a percent and the small cap index…",
+   "number_found_in_window": true
+  },
+  {
+   "item": 76,
+   "instrument_candidates": [
+    "CDSL"
+   ],
+   "number": 1300.0,
+   "sentence_window": "…he profitability will keep increasing and without any leverage without competition it's a duopoly so this is a space you've invested good investments stay put you might get lower prices I would say if you get it closer to 700 buy more CDSL closer to 1300 1200 1300 you should add >> okay all right so that's coming on NSTL the next one is coming in on Aditya lifestyle brands this is from uh Sharat w…",
+   "number_found_in_window": true
+  },
+  {
+   "item": 38,
+   "instrument_candidates": [
+    "^BSESN"
+   ],
+   "number": 72600.0,
+   "sentence_window": "…because when the Sensex at the low point of the day and you're not making money on that particular strike is telling you there is some kind of writing out there. However, this trend of the market is a little bit weak. So a bounce towards that 72,500 72,600 could get sold into. for the time being the positioning is such that 72,600 doesn't get breached. If by chance the nifty the Sensex actually ca…",
+   "number_found_in_window": true
+  },
+  {
+   "item": 66,
+   "instrument_candidates": [
+    "^NSEI"
+   ],
+   "number": 22735.0,
+   "sentence_window": "Nifty as of now at 22,735 740 levels. Obviously a good recovery that we've seen from the day's lowest point. Uh whether it sustains and continues is something we'll watc…",
+   "number_found_in_window": true
+  },
+  {
+   "item": 22,
+   "instrument_candidates": [
+    "LEMONTREE"
+   ],
+   "number": 76.0,
+   "sentence_window": ">> Welcome back. Uh I think markets have come up uh a little bit but not by much, right? I mean 45 or points uh lower 22,500 and uh 76. you know, just put up a lemon tree. Uh the stock should come up on your screen. It's up 5%. I mean, I think uh and a lot of these gains have actua…",
+   "number_found_in_window": true
+  },
+  {
+   "item": 81,
+   "instrument_candidates": [
+    "DATAPATTNS"
+   ],
+   "number": 4755.0,
+   "sentence_window": ">> Very interesting there. So still heading lower is the technical view that's coming on the counter. But uh the next question and this one's from Jay Krishna. It's on data patterns. Uh Jatin he's holding SH at 4755 wants to know what he should do with the counter if he should average down. Would you recommend that? Uh >> I would suggest to hold with a traili…",
+   "number_found_in_window": true
+  },
+  {
+   "item": 27,
+   "instrument_candidates": [
+    "^NSEI"
+   ],
+   "number": 23000.0,
+   "sentence_window": ">> All right take that point Sachi. Thanks a lot for that. So long on the index only after 23,000 on the nifty until then it is just a bounce but individual stocks they offer compelling opportunities and we do have persistent and indigo as h…",
+   "number_found_in_window": true
+  },
+  {
+   "item": 86,
+   "instrument_candidates": [
+    "SOUTHBANK"
+   ],
+   "number": 48.0,
+   "sentence_window": "…y prospective from two to three year or 1 to two year horizon that is bullish and we can see more upside in this counter. So I think they can hold the same Vishnuat Reddi from Andhra Pradesh is holding 1,250 shares of South Indian bank a price of 17.48 48 rupees.",
+   "number_found_in_window": true
+  },
+  {
+   "item": 1,
+   "instrument_candidates": [
+    "MAXHEALTH"
+   ],
+   "number": 935.0,
+   "sentence_window": "I'm expecting more weakness in the short term. Currently trading around 935. One can look to create short positions. The immediate target would be around 8.85.",
+   "number_found_in_window": true
+  },
+  {
+   "item": 72,
+   "instrument_candidates": [
+    "^NSEI"
+   ],
+   "number": 22672.0,
+   "sentence_window": ">> Welcome back to Halime report on CNBC TV8. Meanwhile, Nifty again has come off from the day's high and it's seeing a fall 23,000 uh 22,000 pardon 22,672 is where the nifty is trading at. So, will be key to watch out for where it's going to be headed from here on. But let's talk about a couple of…",
+   "number_found_in_window": true
+  },
+  {
+   "item": 17,
+   "instrument_candidates": [
+    "^NSEI"
+   ],
+   "number": 22800.0,
+   "sentence_window": "We'll talk talk about them in greater detail. First, let's find out how you should position yourself. Midesh is now joining in. Mesh, you've been calling for caution. So, when the nifty went to levels of 22,800, what was the trade and now what would you advise?",
+   "number_found_in_window": true
+  },
+  {
+   "item": 57,
+   "instrument_candidates": [
+    "^NSEI"
+   ],
+   "number": 22600.0,
+   "sentence_window": ">> Welcome back. Even as the Nifty is below the 22600 mark, it'll be very interesting to see whether the market sees some sort of recovery in the second half of trade largely because up until 11 is …",
+   "number_found_in_window": true
+  },
+  {
+   "item": 18,
+   "instrument_candidates": [
+    "POWERGRID"
+   ],
+   "number": 262.0,
+   "sentence_window": "…ka is an STBT. Uh KN about 326 super target or maybe about 317 316 for uh uh tomorrow. And the other stock uh which I have a view upon is uh STV on power grid. It's broken consolidation and still sliding. So power grid is in STV with a stop at about 262 for targets of 255.",
+   "number_found_in_window": true
+  },
+  {
+   "item": 10,
+   "instrument_candidates": [
+    "^NSEBANK"
+   ],
+   "number": 54000.0,
+   "sentence_window": "They would hope that these gains sustain as we go into the final few minutes of trade. The principal contributor of these gains have has been the Nifty Bank. And after managing to defend the 54,000 mark on the downside yesterday, the index has built on that recovery and is now trading with gains of well over 400 450 points. And that is wha…",
+   "number_found_in_window": true
+  },
+  {
+   "item": 92,
+   "instrument_candidates": [
+    "GMRAIRPORT"
+   ],
+   "number": 100.0,
+   "sentence_window": "He's asking about GMR airports. uh he's uh holding 100 odd shares at the levels of 45 and wants to know whether to continue to hold this one or book profits. Swati, I'll come to you on this one. The st…",
+   "number_found_in_window": true
+  },
+  {
+   "item": 50,
+   "instrument_candidates": [
+    "^NSEI"
+   ],
+   "number": 22411.0,
+   "sentence_window": ">> Welcome back. Well, 22,411 is currently where the Nifty is at. So, there is a significant pressure which is coming in incrementally as the day has gone along. We have the…",
+   "number_found_in_window": true
+  },
+  {
+   "item": 24,
+   "instrument_candidates": [
+    "^NSEI"
+   ],
+   "number": 23000.0,
+   "sentence_window": "…it's a good time wherein some long commitments can be you know deployed uh the short-term view may be from a pullback perspective the broader trend needs to change and that particular change will only be evident once Nifty starts trending above that 23,000 mark.",
+   "number_found_in_window": true
+  },
+  {
+   "item": 36,
+   "instrument_candidates": [
+    "^NSEI"
+   ],
+   "number": 22350.0,
+   "sentence_window": "I'm Hormas Fataka and the day has taken a bit of a nose dive in the last 30 minutes. What was already a forgettable week is now turning into a bit of a nightmarish week for the bulls right now. 260 points lower on the Nifty and 22,350 is where the index currently stands. At one point, we are trying to hold on to that 22500 level for a better part of the first half of the trad…",
+   "number_found_in_window": true
+  },
+  {
+   "item": 53,
+   "instrument_candidates": [
+    "^NSEI"
+   ],
+   "number": 22350.0,
+   "sentence_window": "I'm Hormus Fataka and the day has taken a bit of a nose dive in the last 30 minutes. What was already a forgettable week is now turning into a bit of a nightmarish week for the bulls right now. 260 points lower on the nifty and 22,350 is where the index currently stands. At one point we are trying to hold on to that 22500 level for a better part of the first half of the tradi…",
+   "number_found_in_window": true
+  },
+  {
+   "item": 28,
+   "instrument_candidates": [
+    "SJVN"
+   ],
+   "number": 52.0,
+   "sentence_window": "…oday and yet another day when we have had a big listing pop today. Money View is up 70% from its issue price and A1 steels has come off listed at around about a 13 14% premium is off those highs still holding on about 3% advance and lastly stocks at 52 week lows no stopping the slide in PB fintech another 4% shaved off and mind you now it's only 40 rupees away from its IPO price that was 980 so th…",
+   "number_found_in_window": true
+  },
+  {
+   "item": 2,
+   "instrument_candidates": [
+    "^BSESN"
+   ],
+   "number": 72800.0,
+   "sentence_window": "… have the BSE IT index which is higher by over 2% and we do have the BSE oil and gas index which is higher by about 3/4 of a percent as well. So top contributors to the gain that we're seeing on the Sensex right now. However, having uh come to about 72800, we still have call writers who are active at 73,000. So, they expect some resistance coming in at around 73200 and we've seen some writing at t…",
+   "number_found_in_window": true
+  },
+  {
+   "item": 88,
+   "instrument_candidates": [
+    "^NSEI"
+   ],
+   "number": 22600.0,
+   "sentence_window": "Internally 1 is to5 on the advanced decline ratio right now. And it's not just the nifty. Yeah, there we go. We have crashed below 22,600. In the space of this morning, you've uh 22,700 22,600 both gone. It's just it's just from fall from the day high is about 200 points.",
+   "number_found_in_window": true
+  },
+  {
+   "item": 74,
+   "instrument_candidates": [
+    "^NSEI"
+   ],
+   "number": 22700.0,
+   "sentence_window": ">> Hi Hermas. Good afternoon. You know the m market's back in the red. There seems to be no respite. We saw the nifty above 22,700 but you know those losses coming back in >> a proper expiry session that's playing out and uh there was recovery from the lows of the day. that…",
+   "number_found_in_window": true
+  },
+  {
+   "item": 14,
+   "instrument_candidates": [
+    "TMPV"
+   ],
+   "number": 310.0,
+   "sentence_window": ">> So well for now I would just taking at take it as a trading strategy because the trend is really down. So I would say yes bounceback can take you to 300 310 levels as far as TMPV is concerned and Tata Motor CV also my view remains the same that it could be good for a bounce back actually we need to see…",
+   "number_found_in_window": true
+  },
+  {
+   "item": 70,
+   "instrument_candidates": [
+    "^NSEI"
+   ],
+   "number": 23000.0,
+   "sentence_window": ">> Welcome back to Halime report on CNBC TV8. Meanwhile, Nifty again has come off from the day's high and it's seeing a fall 23,000 uh 22,000 pardon 22,672 is where the nifty is trading at. So, will be key to watch out for where it's going to be headed from here on. But let'…",
+   "number_found_in_window": true
+  },
+  {
+   "item": 49,
+   "instrument_candidates": [
+    "^NSEI"
+   ],
+   "number": 22500.0,
+   "sentence_window": "…e around 55,100. Now sitting with a gain of almost 170 points at 54,800 itself. And that explains why the nifty is now on the verge of breaking that 22500 mark as well. So monitor that an important level to track because a lot of puts are written at 22,500. the market at a low point of trade. We're getting numbers from Aisha Motors as well. That stock has seen a bit of a decline post those numbers…",
+   "number_found_in_window": true
+  },
+  {
+   "item": 100,
+   "instrument_candidates": [
+    "^NSEBANK"
+   ],
+   "number": 54100.0,
+   "sentence_window": "…se there is rebalancing. There is um also expiry at its blend. This is the September expiry that we're talking about. So it'll be crucial to watch out for for the next 5 minutes until we settle down. For the bank nifty also uh we hovering around the 54100 levels as per the indicative close and for the nifty50 we're also um hovering around those. Let's let's try to pull that up. Um in terms of nift…",
+   "number_found_in_window": true
+  },
+  {
+   "item": 61,
+   "instrument_candidates": [
+    "^NSEBANK"
+   ],
+   "number": 54000.0,
+   "sentence_window": "…to. see that chart on your screen. The Sensex also trading with cuts of almost 600 points and there's absolutely no place to hide. Pharma is one pack as a whole which is relatively holding up but it's red across the screen. The Bank Nifty below that 54,000 mark now at 53,928 as we speak. The midcap index seen a smidge of a recovery again but still trading with cuts of almost 8/10 of a percent and …",
+   "number_found_in_window": true
+  },
+  {
+   "item": 48,
+   "instrument_candidates": [
+    "^NSEI"
+   ],
+   "number": 22555.0,
+   "sentence_window": ">> Welcome back. 22,555 on the nifty 63 points down while the Sensex is lower by 115 points. in the last one are we haven't incrementally deteriorated but nor has been…",
+   "number_found_in_window": true
+  },
+  {
+   "item": 15,
+   "instrument_candidates": [
+    "HDFCBANK"
+   ],
+   "number": 855.0,
+   "sentence_window": "…g northwards and hence >> like both the counters you're recommending hold on it and uh you know Vali your view on both the names as well Inden bank as well as HDFC Bank uh one-year time period should they continue to hold or should they sell HDFC at 855 and uh Inden bought at 14.99 >> so again I would repeat that these are good quality stocks in spite of all the whip sauce that market is making us…",
+   "number_found_in_window": true
+  },
+  {
+   "item": 21,
+   "instrument_candidates": [
+    "^BSESN"
+   ],
+   "number": 72600.0,
+   "sentence_window": "…because when the Sensex at the low point of the day and you're not making money on that particular strike is telling you there is some kind of writing out there. However, this trend of the market is a little bit weak. So a bounce towards that 72,500 72,600 could get sold into. For the time being the positioning is such that 72,600 doesn't get breached. If by chance the nifty the Sensex actually ca…",
+   "number_found_in_window": true
+  },
+  {
+   "item": 7,
+   "instrument_candidates": [
+    "^NSEI"
+   ],
+   "number": 22800.0,
+   "sentence_window": ">> Welcome back to halftime report on CNBC TV18. Nifty uh is you know touched the 22,800 mark came off a slight bit but yes that's the day highest point right now for the nifty50 around the 22,800 levels is what it's now trading at.…",
+   "number_found_in_window": true
+  },
+  {
+   "item": 99,
+   "instrument_candidates": [
+    "BSE"
+   ],
+   "number": 3000.0,
+   "sentence_window": "1725, 1730, good support zone. So, you could focus on that. BSE, yes, like I've said in the past, I continue to like BSE. 3,000 is the uh, you know, long-term, medium-term support zone that needs to be held, but right now, it's going through a consolidation phase with a n…",
+   "number_found_in_window": true
+  },
+  {
+   "item": 32,
+   "instrument_candidates": [
+    "^NSEI"
+   ],
+   "number": 22500.0,
+   "sentence_window": "Currently sitting with a gain of almost 170 points. At peak it was a little over 55,000, a little around 55,100. now sitting with a gain of almost 170 points at 54800 itself and that explains why the nifty is now on the verge of breaking that 22500 mark as well. So monitor that an important level to track because a lot of puts are written at 22500 the market at a low point of trade. We're g…",
+   "number_found_in_window": true
+  },
+  {
+   "item": 60,
+   "instrument_candidates": [
+    "^NSEI"
+   ],
+   "number": 22600.0,
+   "sentence_window": "…way and then stability comes in in the market. We've seen some recovery across uh you know uh a lot of the intraday indices as well. So the midcap index has recovered about 250 points from the lows. The nifty too is now sitting comfortably above the 22600 mark and a lot of these uh stocks which saw a big selloff are now moving higher as we speak. uh uh you know so we have PNB housing finance which…",
+   "number_found_in_window": true
+  },
+  {
+   "item": 4,
+   "instrument_candidates": [
+    "^NSEI"
+   ],
+   "number": 22700.0,
+   "sentence_window": ">> Hi Mangla. New series but same old story isn't it? I mean September has been gruesome. Yes, 1300 points lost on the nifty but we're managing to hold on today at least at about 22,700 odd levels. Uh Miley in the green now uh you know as we speak it's splittering. So it's it's been very choppy today. Bank Nifty now that is the…",
+   "number_found_in_window": true
+  },
+  {
+   "item": 68,
+   "instrument_candidates": [
+    "^NSEI"
+   ],
+   "number": 22569.0,
+   "sentence_window": ">> Yeah, thank you for having me on the show. Uh let's go with Nifty50 first. I mean if you look at Nifty50 uh today Nifty has recovered very sharply from 22,569 level and we are trading somewhere around 22700 level. Now my sense over here is that if you see option chain data 22,800 level will act as a s…",
+   "number_found_in_window": true
+  },
+  {
+   "item": 84,
+   "instrument_candidates": [
+    "^NSEI"
+   ],
+   "number": 22500.0,
+   "sentence_window": "…and you have a whole host of um I think farmer names which are receding. The star of the show is Bajach Finance. my core 3% up right now and ITC with that double upgrade. So the uh large caps are joining the party after a while. Uh Nifty still about 22,500 levels. Let's uh pull up uh the midcap and the small cap and see if they're also showing that kind of action this morning. 74% up on the midcap…",
+   "number_found_in_window": true
+  },
+  {
+   "item": 103,
+   "instrument_candidates": [
+    "TIINDIA"
+   ],
+   "number": 3120.0,
+   "sentence_window": ">> Well, the last one month up move on G shipping has been absolutely spectacular to watch as well. So that's on the counter. But next one's tube investments. Uh Eve Enka Turman holding on to these shares at 3120 wants to know if he can average at this current price. Uh certainly Nand you know he's sitting on a loss but uh given the huge investment cycle p…",
+   "number_found_in_window": true
+  },
+  {
+   "item": 89,
+   "instrument_candidates": [
+    "^NSEI"
+   ],
+   "number": 22700.0,
+   "sentence_window": "Internally 1 is to5 on the advanced decline ratio right now. And it's not just the nifty. Yeah, there we go. We have crashed below 22,600. In the space of this morning, you've uh 22,700 22,600 both gone. It's just it's just from fall from the day high is about 200 points.",
+   "number_found_in_window": true
+  },
+  {
+   "item": 46,
+   "instrument_candidates": [
+    "^NSEI"
+   ],
+   "number": 22550.0,
+   "sentence_window": ">> still 70 points lower on uh the nifty as of now holding on to those 25 22550 levels as we speak. The one stock that has come off slightly was bucking the trend earlier in the day is Kotakra Bank. At one point the stock wa…",
+   "number_found_in_window": true
+  },
+  {
+   "item": 95,
+   "instrument_candidates": [
+    "IDFCFIRSTB"
+   ],
+   "number": 75.0,
+   "sentence_window": "…posit franchise as it was strong earlier whether it will maintain or not the only thing is the fund costing pressure is there and I know we have to see how the recovery is coming on ROA part but uh I think if someone want to enter IDFC first I think 75 will be a good level to enter for long uh otherwise hopefully next few quarters will be better so 75 level yes you should enter >> let's just quick…",
+   "number_found_in_window": true
+  },
+  {
+   "item": 33,
+   "instrument_candidates": [
+    "^NSEI"
+   ],
+   "number": 22411.0,
+   "sentence_window": "Welcome back. Well, 22,411 is currently where the Nifty is at. So, there is a significant pressure which is coming in incrementally as the day has gone along. We have the…",
+   "number_found_in_window": true
+  },
+  {
+   "item": 80,
+   "instrument_candidates": [
+    "^NSEI"
+   ],
+   "number": 22000.0,
+   "sentence_window": ">> No no no I'm not negative on Indian markets at all nifty50 or nifty the broader markets as a whole. I think uh let's wait for 22,000 because we have defended 22,000 uh in two previous crisis. One was oxygen zindu. The first time Iran was broke out on 28th of February that tim…",
+   "number_found_in_window": true
+  }
+ ]
+}

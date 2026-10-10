@@ -1,0 +1,24 @@
+claims 86 checkable 13
+   ('HISTORICAL', 'Not a checkable claim') 10
+   ('HISTORICAL', 'Not enough evidence') 6
+   ('HYPOTHETICAL', 'Not a checkable claim') 1
+   ('QUOTE', 'Consistent with available records') 4
+   ('QUOTE', 'Not a checkable claim') 26
+   ('QUOTE', 'Not enough evidence') 3
+   ('TARGET', 'Not a checkable claim') 4
+   ('UNCLASSIFIED', 'Not a checkable claim') 32
+3 checkable, 2 verdict kinds: 20261006T071609Z tv18 start 960
+      997 13:03:19 QUOTE ['^NSEI'] 22700.0 -> Consistent wit consistent | The Nifty now nearing the highest point of the day, 22,700 is where th
+      1026 13:03:48 QUOTE ['^NSEBANK'] 55150.0 -> Consistent wit consistent | It is now at 55,150 .
+      1031 13:03:53 HISTORICAL ['^NSEBANK'] 55220.0 -> Not enough evi None | 55,220  was the high yesterday.
+2 checkable, 1 verdict kinds: 20261006T094547Z tv18 start 720
+      727 15:28:10 QUOTE ['RELIANCE'] 1249.0 -> Not enough evi None | 22900 on a weekly basis ideally about 2308 zero that'll neglect the th
+      727 15:28:10 QUOTE ['RELIANCE'] 1243.0 -> Not enough evi None | 22900 on a weekly basis ideally about 2308 zero that'll neglect the th
+2 checkable, 1 verdict kinds: 20261006T084431Z ndtv start 150
+      168 14:17:44 HISTORICAL ['CGPOWER'] 885.0 -> Not enough evi None | Sunita from Hyderabad is holding few shares of CG power border price o
+      343 14:20:40 HISTORICAL ['COCHINSHIP'] 890.0 -> Not enough evi None | Tell at current level Next square is on HDFC Bank it's for you Josh Th
+2 checkable, 1 verdict kinds: 20261006T082354Z ndtv start 960
+      1146 14:13:30 HISTORICAL ['LEMONTREE'] 116.0 -> Not enough evi None | He is holding 9000 shares, bought at a price of 116.
+      1193 14:14:16 HISTORICAL ['HDFCBANK'] 542.0 -> Not enough evi None | He is holding few shares of TEMSEN's India, bought at a price of 542.
+1 checkable, 1 verdict kinds: 20261006T094547Z ndtv start 720
+      727 15:28:05 QUOTE ['IDFCFIRSTB'] 49.0 -> Not enough evi None | So Alex interesting question I wouldn't really put it in terms of a pi

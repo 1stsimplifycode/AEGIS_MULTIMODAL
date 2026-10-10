@@ -1,0 +1,38 @@
+{
+ "viewport": "desktop 1440x900",
+ "console_errors": [],
+ "failed_requests": [],
+ "checks": {
+  "start_disabled_before_pick": true,
+  "every_stage_node_opens_detail": {
+   "visual_frame": true,
+   "visual_text": true,
+   "audio": true,
+   "claim_set": true,
+   "tape": true,
+   "fill": true,
+   "knowability": true,
+   "data_age": true,
+   "certificate": true
+  },
+  "frame_encoder_text": "Visual frame encoder\nInput\n110 full frames decoded at 1.0 frame/s from research_hipc_2026/icoac_research/live_capture/sessions/20261006T071609Z/tv18/capture.mkv",
+  "stage_images_loaded": true,
+  "trace_has_frame_image": true,
+  "trace_has_market_minutes": true,
+  "marker_seeks_video": {
+   "before": 0,
+   "after": 69.97,
+   "moved": true
+  },
+  "download_HTML": {
+   "name": "certificate_tv18_nifty_bank_1301_067b5064c86a.html",
+   "bytes": 4959
+  },
+  "download_JSON": {
+   "name": "certificate_tv18_nifty_bank_1301_067b5064c86a.json",
+   "bytes": 14349
+  },
+  "synthetic_fill_text": "Fill conservation\nInput\n7 item(s) from the claim set\nProcessing\nCould the claimed executed quantity have traded at that price and time?\nStatus\ndone (run now) \u00b7 0.001 s\nOutput\nFAIL \u2014 PASS 3, FAIL 3, AB",
+  "typed_huge_quantity_fill": "Fill conservation: FAIL"
+ }
+}

@@ -1,0 +1,27 @@
+{
+ "v1": {
+  "Consistent w|OTHER_PRICE": 17,
+  "Consistent w|CURRENT_PRICE": 48,
+  "Contradicted|OTHER_PRICE": 28,
+  "Contradicted|NOT_A_PRICE": 4,
+  "Contradicted|CURRENT_PRICE": 2,
+  "Consistent w|NOT_A_PRICE": 2,
+  "Contradicted|WRONG_INSTRUMENT": 2,
+  "Contradicted|UNCLEAR": 1,
+  "Consistent w|UNCLEAR": 1
+ },
+ "v2": {
+  "Consistent w|OTHER_PRICE": 17,
+  "Consistent w|CURRENT_PRICE": 47,
+  "Not a checka|CURRENT_PRICE": 1,
+  "Not enough e|OTHER_PRICE": 24,
+  "Not enough e|NOT_A_PRICE": 2,
+  "Contradicted|OTHER_PRICE": 3,
+  "Not a checka|OTHER_PRICE": 1,
+  "Not enough e|CURRENT_PRICE": 2,
+  "Consistent w|NOT_A_PRICE": 2,
+  "Not enough e|WRONG_INSTRUMENT": 2,
+  "Not enough e|UNCLEAR": 2,
+  "Contradicted|NOT_A_PRICE": 2
+ }
+}

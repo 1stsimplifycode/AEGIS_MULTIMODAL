@@ -1,0 +1,33 @@
+{
+ "videos": [
+  "KtWu1u48Ugo",
+  "RXry5886DoY",
+  "eGXXjbYHAFg",
+  "hUMrgXBpiaU",
+  "qf3PWESFTaU",
+  "rkEp0B66Ijc",
+  "txOK73SWe2M",
+  "yDPJT76Ta_4"
+ ],
+ "claims_extracted": 770,
+ "checkable": 141,
+ "verdicts_checkable": {
+  "Consistent with available records": 67,
+  "Not enough evidence": 73,
+  "Contradicted by available records": 1
+ },
+ "by_type_verdict": {
+  "CALL | Not a checkable claim": 39,
+  "HISTORICAL | Consistent with available records": 2,
+  "HISTORICAL | Contradicted by available records": 1,
+  "HISTORICAL | Not a checkable claim": 38,
+  "HISTORICAL | Not enough evidence": 39,
+  "HYPOTHETICAL | Not a checkable claim": 20,
+  "QUOTE | Consistent with available records": 65,
+  "QUOTE | Not a checkable claim": 248,
+  "QUOTE | Not enough evidence": 34,
+  "TARGET | Not a checkable claim": 95,
+  "UNCLASSIFIED | Not a checkable claim": 189
+ },
+ "runtime_s": 11.8
+}

@@ -1,0 +1,60 @@
+{
+ "n_recordings": 4,
+ "n_identified": 3,
+ "n_day_correct": 3,
+ "delay_min": -6.2,
+ "delay_max": 2.6,
+ "tau_radius_median_s": 25.0,
+ "ratchet_events_total": 0,
+ "rows": [
+  {
+   "recording": "20261006T073646Z/tv18",
+   "frames": 120,
+   "panel_frames": 12,
+   "status": "IDENTIFIED",
+   "day": "2026-10-06",
+   "day_correct": true,
+   "tau_radius_s": 30.0,
+   "delay_s": -1.9,
+   "ratchet_events": 0,
+   "reason": null
+  },
+  {
+   "recording": "20261006T082354Z/tv18",
+   "frames": 120,
+   "panel_frames": 13,
+   "status": "IDENTIFIED",
+   "day": "2026-10-06",
+   "day_correct": true,
+   "tau_radius_s": 15.0,
+   "delay_s": -6.2,
+   "ratchet_events": 0,
+   "reason": null
+  },
+  {
+   "recording": "20261006T090506Z/tv18",
+   "frames": 120,
+   "panel_frames": 13,
+   "status": "IDENTIFIED",
+   "day": "2026-10-06",
+   "day_correct": true,
+   "tau_radius_s": 25.0,
+   "delay_s": 2.6,
+   "ratchet_events": 0,
+   "reason": null
+  },
+  {
+   "recording": "20261006T094547Z/tv18",
+   "frames": 91,
+   "panel_frames": 25,
+   "status": "ABSTAIN",
+   "day": null,
+   "day_correct": null,
+   "tau_radius_s": null,
+   "delay_s": null,
+   "ratchet_events": 0,
+   "reason": "no trading day in the market record is consistent with every displayed price and day-high (model rejected: wrong layout reading, a different data feed, or the day is outside our records)"
+  }
+ ],
+ "note": "frames at 1 per 10 s over each full 20-minute recording; tau never uses a clock; the clock is only used to check it"
+}

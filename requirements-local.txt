@@ -1,0 +1,9 @@
+# Local research mode (CAPSTONE_MODE=local): adds video upload, speech recognition, OCR and the test/browser tooling.
+-r requirements.txt
+faster-whisper
+rapidocr-onnxruntime
+opencv-python
+pytest
+httpx
+playwright
+psutil

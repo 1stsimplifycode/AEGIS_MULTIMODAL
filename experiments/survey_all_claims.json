@@ -1,0 +1,1206 @@
+[
+{
+"sess": "20261006T071609Z",
+"ch": "ndtv",
+"t": 800.58,
+"type": "HISTORICAL",
+"verdict": "Consistent with available records",
+"value": 22700.0,
+"cands": [
+"^NSEI"
+],
+"sentence": "thanks mark this tender coffee for a second straight session with both cents and nifty posting gains as easing selling p",
+"timing": null,
+"air": "2026-10-06 13:00:04 IST"
+},
+{
+"sess": "20261006T071609Z",
+"ch": "ndtv",
+"t": 893.73,
+"type": "QUOTE",
+"verdict": "Not a checkable claim",
+"value": 150.0,
+"cands": [
+"^NSEI"
+],
+"sentence": "Ghodraj Kinsumar and Huna Saar Kinsumar gain after both companies signals strong second quarter growth with revenue and ",
+"timing": null,
+"air": "2026-10-06 13:01:37 IST"
+},
+{
+"sess": "20261006T071609Z",
+"ch": "ndtv",
+"t": 898.03,
+"type": "QUOTE",
+"verdict": "Not a checkable claim",
+"value": 500.0,
+"cands": [
+"^BSESN"
+],
+"sentence": "Ghodraj Kinsumar and Huna Saar Kinsumar gain after both companies signals strong second quarter growth with revenue and ",
+"timing": null,
+"air": "2026-10-06 13:01:42 IST"
+},
+{
+"sess": "20261006T071609Z",
+"ch": "ndtv",
+"t": 986.45,
+"type": "QUOTE",
+"verdict": "Not a checkable claim",
+"value": 50.0,
+"cands": [
+"^NSEI"
+],
+"sentence": "Ghodraj Kinsumar and Huna Saar Kinsumar gain after both companies signals strong second quarter growth with revenue and ",
+"timing": null,
+"air": "2026-10-06 13:03:10 IST"
+},
+{
+"sess": "20261006T071609Z",
+"ch": "tv18",
+"t": 254.24,
+"type": "QUOTE",
+"verdict": "Consistent with available records",
+"value": 22713.0,
+"cands": [
+"^NSEI"
+],
+"sentence": "Welcome back to half time report on CNBC TV 18 if tea is now trading at the days highest point 22713 is where the nifty ",
+"timing": "consistent",
+"air": "2026-10-06 12:50:56 IST"
+},
+{
+"sess": "20261006T071609Z",
+"ch": "tv18",
+"t": 479.9,
+"type": "QUOTE",
+"verdict": "Consistent with available records",
+"value": 22700.0,
+"cands": [
+"^NSEI"
+],
+"sentence": "The Nifty above 22,700 holding comfortably at those levels we take a short break more on the market's ones we're back, s",
+"timing": null,
+"air": "2026-10-06 12:54:42 IST"
+},
+{
+"sess": "20261006T071609Z",
+"ch": "tv18",
+"t": 997.25,
+"type": "QUOTE",
+"verdict": "Consistent with available records",
+"value": 22700.0,
+"cands": [
+"^NSEI"
+],
+"sentence": "The Nifty now nearing the highest point of the day, 22,700 is where the index finds itself in and the good part has been",
+"timing": "consistent",
+"air": "2026-10-06 13:03:19 IST"
+},
+{
+"sess": "20261006T071609Z",
+"ch": "tv18",
+"t": 1011.91,
+"type": "QUOTE",
+"verdict": "Not a checkable claim",
+"value": 22.0,
+"cands": [
+"^NSEI"
+],
+"sentence": "So 22-7-10 is where the index currently is.",
+"timing": null,
+"air": "2026-10-06 13:03:34 IST"
+},
+{
+"sess": "20261006T071609Z",
+"ch": "tv18",
+"t": 1011.93,
+"type": "QUOTE",
+"verdict": "Not a checkable claim",
+"value": 7.0,
+"cands": [
+"^NSEI"
+],
+"sentence": "So 22-7-10 is where the index currently is.",
+"timing": null,
+"air": "2026-10-06 13:03:34 IST"
+},
+{
+"sess": "20261006T071609Z",
+"ch": "tv18",
+"t": 1011.93,
+"type": "QUOTE",
+"verdict": "Not a checkable claim",
+"value": 10.0,
+"cands": [
+"^NSEI"
+],
+"sentence": "So 22-7-10 is where the index currently is.",
+"timing": null,
+"air": "2026-10-06 13:03:34 IST"
+},
+{
+"sess": "20261006T071609Z",
+"ch": "tv18",
+"t": 1024.19,
+"type": "UNCLASSIFIED",
+"verdict": "Not a checkable claim",
+"value": 55000.0,
+"cands": [
+"^NSEBANK"
+],
+"sentence": "The Nifty bank on last check was testing the 55,000 mark on the upside.",
+"timing": null,
+"air": "2026-10-06 13:03:46 IST"
+},
+{
+"sess": "20261006T071609Z",
+"ch": "tv18",
+"t": 1026.41,
+"type": "QUOTE",
+"verdict": "Consistent with available records",
+"value": 55150.0,
+"cands": [
+"^NSEBANK"
+],
+"sentence": "It is now at 55,150 .",
+"timing": "consistent",
+"air": "2026-10-06 13:03:48 IST"
+},
+{
+"sess": "20261006T071609Z",
+"ch": "tv18",
+"t": 1030.97,
+"type": "HISTORICAL",
+"verdict": "Not enough evidence",
+"value": 55220.0,
+"cands": [
+"^NSEBANK"
+],
+"sentence": "55,220  was the high yesterday.",
+"timing": null,
+"air": "2026-10-06 13:03:53 IST"
+},
+{
+"sess": "20261006T071609Z",
+"ch": "tv18",
+"t": 1051.39,
+"type": "UNCLASSIFIED",
+"verdict": "Not a checkable claim",
+"value": 3.0,
+"cands": [
+"^NSEBANK"
+],
+"sentence": "And the stock was up around 3-3 and a half percent.",
+"timing": null,
+"air": "2026-10-06 13:04:13 IST"
+},
+{
+"sess": "20261006T071609Z",
+"ch": "tv18",
+"t": 1051.65,
+"type": "UNCLASSIFIED",
+"verdict": "Not a checkable claim",
+"value": 3.0,
+"cands": [
+"^NSEBANK"
+],
+"sentence": "And the stock was up around 3-3 and a half percent.",
+"timing": null,
+"air": "2026-10-06 13:04:14 IST"
+},
+{
+"sess": "20261006T071609Z",
+"ch": "tv18",
+"t": 1105.71,
+"type": "UNCLASSIFIED",
+"verdict": "Not a checkable claim",
+"value": 10.0,
+"cands": [
+"TRENT"
+],
+"sentence": "More importantly they've continued to open their stores both 10 you know Westside stores 17 Zodior stores.",
+"timing": null,
+"air": "2026-10-06 13:05:08 IST"
+},
+{
+"sess": "20261006T071609Z",
+"ch": "tv18",
+"t": 1107.65,
+"type": "UNCLASSIFIED",
+"verdict": "Not a checkable claim",
+"value": 17.0,
+"cands": [
+"TRENT"
+],
+"sentence": "More importantly they've continued to open their stores both 10 you know Westside stores 17 Zodior stores.",
+"timing": null,
+"air": "2026-10-06 13:05:10 IST"
+},
+{
+"sess": "20261006T073646Z",
+"ch": "tv18",
+"t": 301.7,
+"type": "UNCLASSIFIED",
+"verdict": "Not a checkable claim",
+"value": 2.0,
+"cands": [
+"PAGEIND"
+],
+"sentence": "The meeting is likely to start at 2 p.m. just a short while from now, officials from Mumbai Airport, Navi Mumbai Airport",
+"timing": null,
+"air": "2026-10-06 13:12:09 IST"
+},
+{
+"sess": "20261006T080326Z",
+"ch": "tv18",
+"t": 114.8,
+"type": "TARGET",
+"verdict": "Not a checkable claim",
+"value": 22600.0,
+"cands": [
+"^NSEI"
+],
+"sentence": "So yeah, I think the way the market is holding about the mark of 22,600.",
+"timing": null,
+"air": "2026-10-06 13:35:43 IST"
+},
+{
+"sess": "20261006T082354Z",
+"ch": "ndtv",
+"t": 373.16,
+"type": "HYPOTHETICAL",
+"verdict": "Not a checkable claim",
+"value": 22700.0,
+"cands": [
+"^NSEI"
+],
+"sentence": "Now, if Nifty manages to close above this 22,700 level, then I endless, technical endless belief that this will open the",
+"timing": null,
+"air": "2026-10-06 14:00:37 IST"
+},
+{
+"sess": "20261006T082354Z",
+"ch": "ndtv",
+"t": 384.12,
+"type": "UNCLASSIFIED",
+"verdict": "Not a checkable claim",
+"value": 400.0,
+"cands": [
+"^NSEBANK"
+],
+"sentence": "Nifty bank index that's up around 400 odd points in trade.",
+"timing": null,
+"air": "2026-10-06 14:00:48 IST"
+},
+{
+"sess": "20261006T082354Z",
+"ch": "ndtv",
+"t": 421.1,
+"type": "TARGET",
+"verdict": "Not a checkable claim",
+"value": 2.0,
+"cands": [
+"FEDERALBNK"
+],
+"sentence": "Coal India, Tech Mahindra and Federal Bank, which are down anywhere between 2 to 3 and a half percent in trade.",
+"timing": null,
+"air": "2026-10-06 14:01:25 IST"
+},
+{
+"sess": "20261006T082354Z",
+"ch": "ndtv",
+"t": 421.36,
+"type": "TARGET",
+"verdict": "Not a checkable claim",
+"value": 3.0,
+"cands": [
+"FEDERALBNK"
+],
+"sentence": "Coal India, Tech Mahindra and Federal Bank, which are down anywhere between 2 to 3 and a half percent in trade.",
+"timing": null,
+"air": "2026-10-06 14:01:25 IST"
+},
+{
+"sess": "20261006T082354Z",
+"ch": "ndtv",
+"t": 428.3,
+"type": "UNCLASSIFIED",
+"verdict": "Not a checkable claim",
+"value": 22700.0,
+"cands": [
+"FEDERALBNK"
+],
+"sentence": "But yeah, 22,700 remains a very crucial level for the market.",
+"timing": null,
+"air": "2026-10-06 14:01:32 IST"
+},
+{
+"sess": "20261006T082354Z",
+"ch": "ndtv",
+"t": 451.58,
+"type": "QUOTE",
+"verdict": "Not a checkable claim",
+"value": 40.0,
+"cands": [
+"SHRIRAMFIN"
+],
+"sentence": "Ramesh from Bangalore is holding around 40 shares, bought at a price of $1,44 rupees.",
+"timing": null,
+"air": "2026-10-06 14:01:56 IST"
+},
+{
+"sess": "20261006T082354Z",
+"ch": "ndtv",
+"t": 452.98,
+"type": "HISTORICAL",
+"verdict": "Not a checkable claim",
+"value": 44.0,
+"cands": [
+"SHRIRAMFIN"
+],
+"sentence": "Ramesh from Bangalore is holding around 40 shares, bought at a price of $1,44 rupees.",
+"timing": null,
+"air": "2026-10-06 14:01:57 IST"
+},
+{
+"sess": "20261006T082354Z",
+"ch": "ndtv",
+"t": 511.84,
+"type": "UNCLASSIFIED",
+"verdict": "Not a checkable claim",
+"value": 3.0,
+"cands": [
+"NMDC"
+],
+"sentence": "The next query is on 3-way engineering.",
+"timing": null,
+"air": "2026-10-06 14:02:56 IST"
+},
+{
+"sess": "20261006T082354Z",
+"ch": "ndtv",
+"t": 516.1,
+"type": "HISTORICAL",
+"verdict": "Not a checkable claim",
+"value": 15.0,
+"cands": [
+"NMDC"
+],
+"sentence": "MM Kapoor from Lucknow has bought 15 shares at a price of $2.90.",
+"timing": null,
+"air": "2026-10-06 14:03:00 IST"
+},
+{
+"sess": "20261006T082354Z",
+"ch": "ndtv",
+"t": 696.38,
+"type": "HISTORICAL",
+"verdict": "Not a checkable claim",
+"value": 16000.0,
+"cands": [
+"RECLTD"
+],
+"sentence": "Kumar has purchased around 16,000 shares at a price of $370.",
+"timing": null,
+"air": "2026-10-06 14:06:00 IST"
+},
+{
+"sess": "20261006T082354Z",
+"ch": "ndtv",
+"t": 754.94,
+"type": "HISTORICAL",
+"verdict": "Not a checkable claim",
+"value": 860.0,
+"cands": [
+"NTPC"
+],
+"sentence": "His holding 50 shares of Kofos, Bauder Prize of $1,860.",
+"timing": null,
+"air": "2026-10-06 14:06:59 IST"
+},
+{
+"sess": "20261006T082354Z",
+"ch": "ndtv",
+"t": 969.7,
+"type": "HISTORICAL",
+"verdict": "Not a checkable claim",
+"value": 890.0,
+"cands": [
+"MCX"
+],
+"sentence": "Asta Subarwal is holding few shares, borrowed a price of $2,890.",
+"timing": null,
+"air": "2026-10-06 14:10:34 IST"
+},
+{
+"sess": "20261006T082354Z",
+"ch": "ndtv",
+"t": 996.8,
+"type": "HISTORICAL",
+"verdict": "Not a checkable claim",
+"value": 192.0,
+"cands": [
+"MCX"
+],
+"sentence": "Shrinivas Rao from Hyderabad is holding $50 shares, borrowed a price of $1,192.",
+"timing": null,
+"air": "2026-10-06 14:11:01 IST"
+},
+{
+"sess": "20261006T082354Z",
+"ch": "ndtv",
+"t": 1143.22,
+"type": "QUOTE",
+"verdict": "Not a checkable claim",
+"value": 9000.0,
+"cands": [
+"LEMONTREE"
+],
+"sentence": "He is holding 9000 shares, bought at a price of 116.",
+"timing": null,
+"air": "2026-10-06 14:13:27 IST"
+},
+{
+"sess": "20261006T082354Z",
+"ch": "ndtv",
+"t": 1145.88,
+"type": "HISTORICAL",
+"verdict": "Not enough evidence",
+"value": 116.0,
+"cands": [
+"LEMONTREE"
+],
+"sentence": "He is holding 9000 shares, bought at a price of 116.",
+"timing": null,
+"air": "2026-10-06 14:13:30 IST"
+},
+{
+"sess": "20261006T082354Z",
+"ch": "ndtv",
+"t": 1192.6,
+"type": "HISTORICAL",
+"verdict": "Not enough evidence",
+"value": 542.0,
+"cands": [
+"HDFCBANK"
+],
+"sentence": "He is holding few shares of TEMSEN's India, bought at a price of 542.",
+"timing": null,
+"air": "2026-10-06 14:14:16 IST"
+},
+{
+"sess": "20261006T082354Z",
+"ch": "tv18",
+"t": 1162.13,
+"type": "UNCLASSIFIED",
+"verdict": "Not a checkable claim",
+"value": 5.0,
+"cands": [
+"^BSESN"
+],
+"sentence": "Ashish good afternoon thank you so much for joining us and you know you can I can see your ex-posts and that is somethin",
+"timing": null,
+"air": "2026-10-06 14:13:50 IST"
+},
+{
+"sess": "20261006T084431Z",
+"ch": "ndtv",
+"t": 21.88,
+"type": "HISTORICAL",
+"verdict": "Not enough evidence",
+"value": 1100.0,
+"cands": [
+"INFY"
+],
+"sentence": "It'll be a hold from my side The next square is coming in from SM Reddy from Hyderabad He's holding 1000 shares of Infos",
+"timing": null,
+"air": "2026-10-06 14:15:18 IST"
+},
+{
+"sess": "20261006T084431Z",
+"ch": "ndtv",
+"t": 167.58,
+"type": "HISTORICAL",
+"verdict": "Not enough evidence",
+"value": 885.0,
+"cands": [
+"CGPOWER"
+],
+"sentence": "Sunita from Hyderabad is holding few shares of CG power border price of 885 should she continue to hold this for short t",
+"timing": null,
+"air": "2026-10-06 14:17:44 IST"
+},
+{
+"sess": "20261006T084431Z",
+"ch": "ndtv",
+"t": 343.16,
+"type": "HISTORICAL",
+"verdict": "Not enough evidence",
+"value": 890.0,
+"cands": [
+"COCHINSHIP"
+],
+"sentence": "Tell at current level Next square is on HDFC Bank it's for you Josh Thomas Josh from Cochin is holding 1000 shares borde",
+"timing": null,
+"air": "2026-10-06 14:20:40 IST"
+},
+{
+"sess": "20261006T084431Z",
+"ch": "ndtv",
+"t": 451.62,
+"type": "HISTORICAL",
+"verdict": "Not a checkable claim",
+"value": 39.76,
+"cands": [
+"VEDL"
+],
+"sentence": "Hold Next square is on Vedanta oil and gas and it's for you Knaal Prasant is holding 1900 shares border price of 39.76 s",
+"timing": null,
+"air": "2026-10-06 14:22:28 IST"
+},
+{
+"sess": "20261006T084431Z",
+"ch": "ndtv",
+"t": 795.28,
+"type": "QUOTE",
+"verdict": "Not a checkable claim",
+"value": 15.0,
+"cands": [
+"^NSEI"
+],
+"sentence": "As global equation shift, Prime Minister Narendra Modi Hi, thanks so much for joining in, you're watching India Market C",
+"timing": null,
+"air": "2026-10-06 14:28:12 IST"
+},
+{
+"sess": "20261006T084431Z",
+"ch": "ndtv",
+"t": 994.3,
+"type": "QUOTE",
+"verdict": "Not a checkable claim",
+"value": 500.0,
+"cands": [
+"BSE"
+],
+"sentence": "As global equation shift, Prime Minister Narendra Modi Hi, thanks so much for joining in, you're watching India Market C",
+"timing": null,
+"air": "2026-10-06 14:31:31 IST"
+},
+{
+"sess": "20261006T084431Z",
+"ch": "ndtv",
+"t": 1105.28,
+"type": "QUOTE",
+"verdict": "Not a checkable claim",
+"value": 1.31,
+"cands": [
+"^NSEI"
+],
+"sentence": "Yeah, we did speak of 22,720  to 900 as the zone where the index could head As in when the rebound comes about good to s",
+"timing": null,
+"air": "2026-10-06 14:33:23 IST"
+},
+{
+"sess": "20261006T084431Z",
+"ch": "ndtv",
+"t": 1106.08,
+"type": "QUOTE",
+"verdict": "Not a checkable claim",
+"value": 1.2,
+"cands": [
+"^NSEI"
+],
+"sentence": "Yeah, we did speak of 22,720  to 900 as the zone where the index could head As in when the rebound comes about good to s",
+"timing": null,
+"air": "2026-10-06 14:33:23 IST"
+},
+{
+"sess": "20261006T084431Z",
+"ch": "ndtv",
+"t": 1154.9,
+"type": "QUOTE",
+"verdict": "Not a checkable claim",
+"value": 55200.0,
+"cands": [
+"^NSEI"
+],
+"sentence": "Yeah, we did speak of 22,720  to 900 as the zone where the index could head As in when the rebound comes about good to s",
+"timing": null,
+"air": "2026-10-06 14:34:12 IST"
+},
+{
+"sess": "20261006T084431Z",
+"ch": "tv18",
+"t": 876.78,
+"type": "UNCLASSIFIED",
+"verdict": "Not a checkable claim",
+"value": 22700.0,
+"cands": [
+"^NSEI"
+],
+"sentence": "The Nifty is close to 22,700.",
+"timing": null,
+"air": "2026-10-06 14:29:35 IST"
+},
+{
+"sess": "20261006T084431Z",
+"ch": "tv18",
+"t": 881.62,
+"type": "UNCLASSIFIED",
+"verdict": "Not a checkable claim",
+"value": 22200.0,
+"cands": [
+"^NSEI"
+],
+"sentence": "Up the days high and from Friday's low, which was closer to 22,200, we've added a cool 500 points on the Nifty.",
+"timing": null,
+"air": "2026-10-06 14:29:40 IST"
+},
+{
+"sess": "20261006T084431Z",
+"ch": "tv18",
+"t": 892.08,
+"type": "UNCLASSIFIED",
+"verdict": "Not a checkable claim",
+"value": 6.0,
+"cands": [
+"^NSEI"
+],
+"sentence": "That's up about 6 cents per percentage point.",
+"timing": null,
+"air": "2026-10-06 14:29:50 IST"
+},
+{
+"sess": "20261006T084431Z",
+"ch": "tv18",
+"t": 1009.64,
+"type": "UNCLASSIFIED",
+"verdict": "Not a checkable claim",
+"value": 30.0,
+"cands": [
+"POLICYBZR"
+],
+"sentence": "And it's a story we reported, which I think at least 30, 35 rupees of that move that you're seeing up on the screen on t",
+"timing": null,
+"air": "2026-10-06 14:31:47 IST"
+},
+{
+"sess": "20261006T084431Z",
+"ch": "tv18",
+"t": 1009.74,
+"type": "UNCLASSIFIED",
+"verdict": "Not a checkable claim",
+"value": 35.0,
+"cands": [
+"POLICYBZR"
+],
+"sentence": "And it's a story we reported, which I think at least 30, 35 rupees of that move that you're seeing up on the screen on t",
+"timing": null,
+"air": "2026-10-06 14:31:48 IST"
+},
+{
+"sess": "20261006T084431Z",
+"ch": "tv18",
+"t": 1022.86,
+"type": "UNCLASSIFIED",
+"verdict": "Not a checkable claim",
+"value": 1900.0,
+"cands": [
+"POLICYBZR"
+],
+"sentence": "We'll discuss this in some detail, but had a catastrophic fall, almost from about 1900 levels to 950, one way in about f",
+"timing": null,
+"air": "2026-10-06 14:32:01 IST"
+},
+{
+"sess": "20261006T084431Z",
+"ch": "tv18",
+"t": 1162.83,
+"type": "UNCLASSIFIED",
+"verdict": "Not a checkable claim",
+"value": 3.0,
+"cands": [
+"ANGELONE"
+],
+"sentence": "3 and a half percent. MK, Angel, One,",
+"timing": null,
+"air": "2026-10-06 14:34:21 IST"
+},
+{
+"sess": "20261006T090506Z",
+"ch": "tv18",
+"t": 659.5,
+"type": "UNCLASSIFIED",
+"verdict": "Not a checkable claim",
+"value": 528.0,
+"cands": [
+"TRENT"
+],
+"sentence": "Trees expensive at 58 times at 528 earnings.",
+"timing": null,
+"air": "2026-10-06 14:46:27 IST"
+},
+{
+"sess": "20261006T090506Z",
+"ch": "tv18",
+"t": 798.82,
+"type": "HISTORICAL",
+"verdict": "Not a checkable claim",
+"value": 731.0,
+"cands": [
+"^NSEI"
+],
+"sentence": "So the high of today's trying to thousand 731 and 31 out on the nifty on the nifty bank. It's around just mildly higher.",
+"timing": null,
+"air": "2026-10-06 14:48:46 IST"
+},
+{
+"sess": "20261006T090506Z",
+"ch": "tv18",
+"t": 799.74,
+"type": "UNCLASSIFIED",
+"verdict": "Not a checkable claim",
+"value": 31.0,
+"cands": [
+"^NSEI"
+],
+"sentence": "So the high of today's trying to thousand 731 and 31 out on the nifty on the nifty bank. It's around just mildly higher.",
+"timing": null,
+"air": "2026-10-06 14:48:47 IST"
+},
+{
+"sess": "20261006T090506Z",
+"ch": "tv18",
+"t": 804.34,
+"type": "UNCLASSIFIED",
+"verdict": "Not a checkable claim",
+"value": 7.0,
+"cands": [
+"^NSEBANK"
+],
+"sentence": "We made I think 7 8 points higher than what we saw yesterday. So a higher high is what you want and that's what you've g",
+"timing": null,
+"air": "2026-10-06 14:48:51 IST"
+},
+{
+"sess": "20261006T090506Z",
+"ch": "tv18",
+"t": 841.42,
+"type": "TARGET",
+"verdict": "Not a checkable claim",
+"value": 22740.0,
+"cands": [
+"^NSEI"
+],
+"sentence": "Just punching in that premium you'll get your broad range that you're looking at on the nifty so on the upside 22,740 in",
+"timing": null,
+"air": "2026-10-06 14:49:28 IST"
+},
+{
+"sess": "20261006T090506Z",
+"ch": "tv18",
+"t": 1190.58,
+"type": "QUOTE",
+"verdict": "Not a checkable claim",
+"value": 111.0,
+"cands": [
+"BSE"
+],
+"sentence": "Now BSE is the other one that has done well it's fact the second day that the stock is doing well 3.5% higher today as w",
+"timing": null,
+"air": "2026-10-06 14:55:18 IST"
+},
+{
+"sess": "20261006T092529Z",
+"ch": "tv18",
+"t": 4.26,
+"type": "QUOTE",
+"verdict": "Not a checkable claim",
+"value": 500.0,
+"cands": [
+"^NSEI"
+],
+"sentence": "and today with this move BIC is in fact the most traded, Nifty 500 stock today so far, surpassing both HDFC bank and rel",
+"timing": null,
+"air": "2026-10-06 14:55:48 IST"
+},
+{
+"sess": "20261006T092529Z",
+"ch": "tv18",
+"t": 15.28,
+"type": "QUOTE",
+"verdict": "Not a checkable claim",
+"value": 500.0,
+"cands": [
+"^NSEI"
+],
+"sentence": "and today with this move BIC is in fact the most traded, Nifty 500 stock today so far, surpassing both HDFC bank and rel",
+"timing": null,
+"air": "2026-10-06 14:55:59 IST"
+},
+{
+"sess": "20261006T092529Z",
+"ch": "tv18",
+"t": 50.86,
+"type": "QUOTE",
+"verdict": "Not a checkable claim",
+"value": 500.0,
+"cands": [
+"^NSEI"
+],
+"sentence": "and today with this move BIC is in fact the most traded, Nifty 500 stock today so far, surpassing both HDFC bank and rel",
+"timing": null,
+"air": "2026-10-06 14:56:34 IST"
+},
+{
+"sess": "20261006T092529Z",
+"ch": "tv18",
+"t": 163.79,
+"type": "UNCLASSIFIED",
+"verdict": "Not a checkable claim",
+"value": 20.0,
+"cands": [
+"TRENT"
+],
+"sentence": "And now the trend coming back from mid-teens kind of growth, again going back to 20s, the sustainability of that number,",
+"timing": null,
+"air": "2026-10-06 14:58:27 IST"
+},
+{
+"sess": "20261006T094547Z",
+"ch": "ndtv",
+"t": 19.7,
+"type": "UNCLASSIFIED",
+"verdict": "Not a checkable claim",
+"value": 2900.0,
+"cands": [
+"TRENT"
+],
+"sentence": "Trent, just about 2,900 on the dot.",
+"timing": null,
+"air": "2026-10-06 15:16:18 IST"
+},
+{
+"sess": "20261006T094547Z",
+"ch": "ndtv",
+"t": 24.74,
+"type": "UNCLASSIFIED",
+"verdict": "Not a checkable claim",
+"value": 320.0,
+"cands": [
+"TRENT"
+],
+"sentence": "Let's see if that changes during the cash window, which kick starts at 320.",
+"timing": null,
+"air": "2026-10-06 15:16:23 IST"
+},
+{
+"sess": "20261006T094547Z",
+"ch": "ndtv",
+"t": 102.7,
+"type": "UNCLASSIFIED",
+"verdict": "Not a checkable claim",
+"value": 500.0,
+"cands": [
+"INOXGREEN"
+],
+"sentence": "One is, of course, the 500 megawatt firm turbine order of Rs. 3500 crore is been signed with INOX win, which is a listed",
+"timing": null,
+"air": "2026-10-06 15:17:41 IST"
+},
+{
+"sess": "20261006T094547Z",
+"ch": "ndtv",
+"t": 159.08,
+"type": "HISTORICAL",
+"verdict": "Not a checkable claim",
+"value": 50.0,
+"cands": [
+"^NSEI"
+],
+"sentence": "But clearly, you know, we will be watching our for us to have this progresses. But, you know, as far as the markets go, ",
+"timing": null,
+"air": "2026-10-06 15:18:38 IST"
+},
+{
+"sess": "20261006T094547Z",
+"ch": "ndtv",
+"t": 160.14,
+"type": "HISTORICAL",
+"verdict": "Not a checkable claim",
+"value": 20.0,
+"cands": [
+"^NSEI"
+],
+"sentence": "But clearly, you know, we will be watching our for us to have this progresses. But, you know, as far as the markets go, ",
+"timing": null,
+"air": "2026-10-06 15:18:39 IST"
+},
+{
+"sess": "20261006T094547Z",
+"ch": "ndtv",
+"t": 160.44,
+"type": "HISTORICAL",
+"verdict": "Not a checkable claim",
+"value": 717.0,
+"cands": [
+"^NSEI"
+],
+"sentence": "But clearly, you know, we will be watching our for us to have this progresses. But, you know, as far as the markets go, ",
+"timing": null,
+"air": "2026-10-06 15:18:39 IST"
+},
+{
+"sess": "20261006T094547Z",
+"ch": "ndtv",
+"t": 163.38,
+"type": "QUOTE",
+"verdict": "Not a checkable claim",
+"value": 50.0,
+"cands": [
+"^NSEBANK"
+],
+"sentence": "But clearly, you know, we will be watching our for us to have this progresses. But, you know, as far as the markets go, ",
+"timing": null,
+"air": "2026-10-06 15:18:42 IST"
+},
+{
+"sess": "20261006T094547Z",
+"ch": "ndtv",
+"t": 163.66,
+"type": "QUOTE",
+"verdict": "Not a checkable claim",
+"value": 900.0,
+"cands": [
+"^NSEBANK"
+],
+"sentence": "But clearly, you know, we will be watching our for us to have this progresses. But, you know, as far as the markets go, ",
+"timing": null,
+"air": "2026-10-06 15:18:42 IST"
+},
+{
+"sess": "20261006T094547Z",
+"ch": "ndtv",
+"t": 172.0,
+"type": "UNCLASSIFIED",
+"verdict": "Not a checkable claim",
+"value": 10.0,
+"cands": [
+"^NSEBANK"
+],
+"sentence": "So, we have given up gains from the days high point for the bank Nifty. But we will be watching our for us to how the ne",
+"timing": null,
+"air": "2026-10-06 15:18:51 IST"
+},
+{
+"sess": "20261006T094547Z",
+"ch": "ndtv",
+"t": 451.58,
+"type": "QUOTE",
+"verdict": "Not a checkable claim",
+"value": 37.0,
+"cands": [
+"KOTAKBANK"
+],
+"sentence": "For Adani Poet, the key focus remains on the capacity addition with the company has been expanding month after month. Fo",
+"timing": null,
+"air": "2026-10-06 15:23:30 IST"
+},
+{
+"sess": "20261006T094547Z",
+"ch": "ndtv",
+"t": 452.5,
+"type": "QUOTE",
+"verdict": "Not a checkable claim",
+"value": 24.0,
+"cands": [
+"KOTAKBANK"
+],
+"sentence": "For Adani Poet, the key focus remains on the capacity addition with the company has been expanding month after month. Fo",
+"timing": null,
+"air": "2026-10-06 15:23:31 IST"
+},
+{
+"sess": "20261006T094547Z",
+"ch": "ndtv",
+"t": 458.1,
+"type": "QUOTE",
+"verdict": "Not a checkable claim",
+"value": 14.0,
+"cands": [
+"ETERNAL"
+],
+"sentence": "For Adani Poet, the key focus remains on the capacity addition with the company has been expanding month after month. Fo",
+"timing": null,
+"air": "2026-10-06 15:23:37 IST"
+},
+{
+"sess": "20261006T094547Z",
+"ch": "ndtv",
+"t": 461.08,
+"type": "QUOTE",
+"verdict": "Not a checkable claim",
+"value": 5.8,
+"cands": [
+"ETERNAL"
+],
+"sentence": "For Adani Poet, the key focus remains on the capacity addition with the company has been expanding month after month. Fo",
+"timing": null,
+"air": "2026-10-06 15:23:40 IST"
+},
+{
+"sess": "20261006T094547Z",
+"ch": "ndtv",
+"t": 711.62,
+"type": "QUOTE",
+"verdict": "Not a checkable claim",
+"value": 24.0,
+"cands": [
+"HOMEFIRST"
+],
+"sentence": "So Alex interesting question I wouldn't really put it in terms of a picking order but yes in stocks that I prefer in thi",
+"timing": null,
+"air": "2026-10-06 15:27:50 IST"
+},
+{
+"sess": "20261006T094547Z",
+"ch": "ndtv",
+"t": 726.24,
+"type": "QUOTE",
+"verdict": "Not a checkable claim",
+"value": 36.0,
+"cands": [
+"IDFCFIRSTB"
+],
+"sentence": "So Alex interesting question I wouldn't really put it in terms of a picking order but yes in stocks that I prefer in thi",
+"timing": null,
+"air": "2026-10-06 15:28:05 IST"
+},
+{
+"sess": "20261006T094547Z",
+"ch": "ndtv",
+"t": 726.62,
+"type": "QUOTE",
+"verdict": "Not enough evidence",
+"value": 49.0,
+"cands": [
+"IDFCFIRSTB"
+],
+"sentence": "So Alex interesting question I wouldn't really put it in terms of a picking order but yes in stocks that I prefer in thi",
+"timing": null,
+"air": "2026-10-06 15:28:05 IST"
+},
+{
+"sess": "20261006T094547Z",
+"ch": "ndtv",
+"t": 912.02,
+"type": "QUOTE",
+"verdict": "Not a checkable claim",
+"value": 15.0,
+"cands": [
+"^NSEI"
+],
+"sentence": "So Alex interesting question I wouldn't really put it in terms of a picking order but yes in stocks that I prefer in thi",
+"timing": null,
+"air": "2026-10-06 15:31:11 IST"
+},
+{
+"sess": "20261006T094547Z",
+"ch": "tv18",
+"t": 42.92,
+"type": "UNCLASSIFIED",
+"verdict": "Not a checkable claim",
+"value": 30.0,
+"cands": [
+"COALINDIA"
+],
+"sentence": "This year itself we are expecting 120 tons out of which 3 boilers 30 each are on waste which are higher margins 30 is on",
+"timing": null,
+"air": "2026-10-06 15:16:46 IST"
+},
+{
+"sess": "20261006T094547Z",
+"ch": "tv18",
+"t": 47.06,
+"type": "UNCLASSIFIED",
+"verdict": "Not a checkable claim",
+"value": 60.0,
+"cands": [
+"COALINDIA"
+],
+"sentence": "This year itself we are expecting 120 tons out of which 3 boilers 30 each are on waste which are higher margins 30 is on",
+"timing": null,
+"air": "2026-10-06 15:16:50 IST"
+},
+{
+"sess": "20261006T094547Z",
+"ch": "tv18",
+"t": 56.6,
+"type": "UNCLASSIFIED",
+"verdict": "Not a checkable claim",
+"value": 3.0,
+"cands": [
+"COALINDIA"
+],
+"sentence": "This year itself we are expecting 120 tons out of which 3 boilers 30 each are on waste which are higher margins 30 is on",
+"timing": null,
+"air": "2026-10-06 15:16:59 IST"
+},
+{
+"sess": "20261006T094547Z",
+"ch": "tv18",
+"t": 271.54,
+"type": "UNCLASSIFIED",
+"verdict": "Not a checkable claim",
+"value": 23.0,
+"cands": [
+"^NSEI"
+],
+"sentence": "That's correct that's correct see Renuka from 2022 23 high was about 68.75 it come down in a very choppy fashion from th",
+"timing": null,
+"air": "2026-10-06 15:20:34 IST"
+},
+{
+"sess": "20261006T094547Z",
+"ch": "tv18",
+"t": 272.34,
+"type": "UNCLASSIFIED",
+"verdict": "Not a checkable claim",
+"value": 68.75,
+"cands": [
+"^NSEI"
+],
+"sentence": "That's correct that's correct see Renuka from 2022 23 high was about 68.75 it come down in a very choppy fashion from th",
+"timing": null,
+"air": "2026-10-06 15:20:35 IST"
+},
+{
+"sess": "20261006T094547Z",
+"ch": "tv18",
+"t": 726.76,
+"type": "QUOTE",
+"verdict": "Not enough evidence",
+"value": 1249.0,
+"cands": [
+"RELIANCE"
+],
+"sentence": "22900 on a weekly basis ideally about 2308 zero that'll neglect the the short term and the big medium term baritones and",
+"timing": null,
+"air": "2026-10-06 15:28:10 IST"
+},
+{
+"sess": "20261006T094547Z",
+"ch": "tv18",
+"t": 727.0,
+"type": "QUOTE",
+"verdict": "Not enough evidence",
+"value": 1243.0,
+"cands": [
+"RELIANCE"
+],
+"sentence": "22900 on a weekly basis ideally about 2308 zero that'll neglect the the short term and the big medium term baritones and",
+"timing": null,
+"air": "2026-10-06 15:28:10 IST"
+}
+]

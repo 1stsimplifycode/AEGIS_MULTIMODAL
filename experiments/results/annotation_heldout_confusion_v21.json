@@ -1,0 +1,14 @@
+{
+ "Consistent w|OTHER_PRICE": 17,
+ "Consistent w|CURRENT_PRICE": 43,
+ "Not a checka|CURRENT_PRICE": 2,
+ "Not enough e|OTHER_PRICE": 24,
+ "Not enough e|NOT_A_PRICE": 4,
+ "Not enough e|CURRENT_PRICE": 4,
+ "not extracted|OTHER_PRICE": 1,
+ "Not a checka|OTHER_PRICE": 3,
+ "Contradicted|CURRENT_PRICE": 1,
+ "Consistent w|NOT_A_PRICE": 2,
+ "Not enough e|WRONG_INSTRUMENT": 2,
+ "not extracted|UNCLEAR": 2
+}

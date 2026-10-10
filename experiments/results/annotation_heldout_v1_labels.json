@@ -1,0 +1,425 @@
+{
+ "annotator": "independent LLM subagent (blind to verdicts)",
+ "labels": {
+  "1": {
+   "label": "CURRENT_PRICE",
+   "note": "Currently trading around 935."
+  },
+  "2": {
+   "label": "UNCLEAR",
+   "note": "Number not present in visible (truncated) sentence."
+  },
+  "3": {
+   "label": "CURRENT_PRICE",
+   "note": "Nifty slightly below 22700 now."
+  },
+  "4": {
+   "label": "CURRENT_PRICE",
+   "note": "Nifty holding about 22,700 today."
+  },
+  "5": {
+   "label": "UNCLEAR",
+   "note": "Number not present in visible (truncated) sentence."
+  },
+  "6": {
+   "label": "CURRENT_PRICE",
+   "note": "Nifty still holding 22,700 levels."
+  },
+  "7": {
+   "label": "CURRENT_PRICE",
+   "note": "Nifty now trading around 22,800."
+  },
+  "8": {
+   "label": "CURRENT_PRICE",
+   "note": "Nifty now trading around 22,800 levels."
+  },
+  "9": {
+   "label": "CURRENT_PRICE",
+   "note": "Nifty above 22,700 near 800 at this point."
+  },
+  "10": {
+   "label": "OTHER_PRICE",
+   "note": "Level defended yesterday."
+  },
+  "11": {
+   "label": "OTHER_PRICE",
+   "note": "Viewer's buy price for Tata Motors PV."
+  },
+  "12": {
+   "label": "OTHER_PRICE",
+   "note": "Viewer's purchase price."
+  },
+  "13": {
+   "label": "OTHER_PRICE",
+   "note": "Bounce target level."
+  },
+  "14": {
+   "label": "OTHER_PRICE",
+   "note": "Bounce target level."
+  },
+  "15": {
+   "label": "UNCLEAR",
+   "note": "Number not present in visible (truncated) sentence."
+  },
+  "16": {
+   "label": "CURRENT_PRICE",
+   "note": "Nifty as we speak below 22,650."
+  },
+  "17": {
+   "label": "OTHER_PRICE",
+   "note": "Earlier level Nifty went to."
+  },
+  "18": {
+   "label": "UNCLEAR",
+   "note": "Number not present in visible (truncated) sentence."
+  },
+  "19": {
+   "label": "UNCLEAR",
+   "note": "Number not present in visible (truncated) sentence. Text about Kotak/IT."
+  },
+  "20": {
+   "label": "CURRENT_PRICE",
+   "note": "'22565 is where the nifty is at'."
+  },
+  "21": {
+   "label": "UNCLEAR",
+   "note": "Number not present in visible (truncated) sentence. Options strikes discussed."
+  },
+  "22": {
+   "label": "WRONG_INSTRUMENT",
+   "note": "76 is part of Nifty quote 22,576, not LemonTree."
+  },
+  "23": {
+   "label": "UNCLEAR",
+   "note": "Number not present in visible (truncated) sentence."
+  },
+  "24": {
+   "label": "UNCLEAR",
+   "note": "Number not present in visible (truncated) sentence."
+  },
+  "25": {
+   "label": "UNCLEAR",
+   "note": "Number not present in visible (truncated) sentence."
+  },
+  "26": {
+   "label": "UNCLEAR",
+   "note": "Number not present in visible (truncated) sentence. Context is support levels."
+  },
+  "27": {
+   "label": "OTHER_PRICE",
+   "note": "Breakout level for going long."
+  },
+  "28": {
+   "label": "UNCLEAR",
+   "note": "Number not present in visible (truncated) sentence."
+  },
+  "29": {
+   "label": "CURRENT_PRICE",
+   "note": "Nifty holding 22550 as we speak."
+  },
+  "30": {
+   "label": "UNCLEAR",
+   "note": "Number not present in visible (truncated) sentence."
+  },
+  "31": {
+   "label": "CURRENT_PRICE",
+   "note": "22,555 on the Nifty, live quote."
+  },
+  "32": {
+   "label": "CURRENT_PRICE",
+   "note": "Nifty on verge of breaking 22500 now."
+  },
+  "33": {
+   "label": "CURRENT_PRICE",
+   "note": "'22,411 is currently where the Nifty is at'."
+  },
+  "34": {
+   "label": "CURRENT_PRICE",
+   "note": "Nifty fell below 22400 right now."
+  },
+  "35": {
+   "label": "CURRENT_PRICE",
+   "note": "Nifty now below 22400."
+  },
+  "36": {
+   "label": "CURRENT_PRICE",
+   "note": "22,350 is where index currently stands."
+  },
+  "37": {
+   "label": "CURRENT_PRICE",
+   "note": "'22565 is where the nifty is at'."
+  },
+  "38": {
+   "label": "UNCLEAR",
+   "note": "Number not present in visible (truncated) sentence. Options strikes discussed."
+  },
+  "39": {
+   "label": "WRONG_INSTRUMENT",
+   "note": "76 is part of Nifty quote 22,576; LemonTree ~107-109."
+  },
+  "40": {
+   "label": "UNCLEAR",
+   "note": "Number not present in visible (truncated) sentence."
+  },
+  "41": {
+   "label": "UNCLEAR",
+   "note": "Number not present in visible (truncated) sentence."
+  },
+  "42": {
+   "label": "UNCLEAR",
+   "note": "Number not present in visible (truncated) sentence."
+  },
+  "43": {
+   "label": "UNCLEAR",
+   "note": "Number not present in visible (truncated) sentence."
+  },
+  "44": {
+   "label": "OTHER_PRICE",
+   "note": "Breakout level for going long."
+  },
+  "45": {
+   "label": "UNCLEAR",
+   "note": "Number not present in visible (truncated) sentence."
+  },
+  "46": {
+   "label": "CURRENT_PRICE",
+   "note": "Holding 22550 as we speak."
+  },
+  "47": {
+   "label": "UNCLEAR",
+   "note": "Number not present in visible (truncated) sentence."
+  },
+  "48": {
+   "label": "CURRENT_PRICE",
+   "note": "22,555 on the nifty, live."
+  },
+  "49": {
+   "label": "CURRENT_PRICE",
+   "note": "Nifty on verge of breaking 22500 now."
+  },
+  "50": {
+   "label": "CURRENT_PRICE",
+   "note": "'22,411 is currently where the Nifty is at'."
+  },
+  "51": {
+   "label": "CURRENT_PRICE",
+   "note": "Nifty fell below 22400 right now."
+  },
+  "52": {
+   "label": "CURRENT_PRICE",
+   "note": "Nifty now below 22400 for first time since April."
+  },
+  "53": {
+   "label": "CURRENT_PRICE",
+   "note": "22,350 is where index currently stands."
+  },
+  "54": {
+   "label": "CURRENT_PRICE",
+   "note": "Sensex down a third of percent, at 72,536."
+  },
+  "55": {
+   "label": "CURRENT_PRICE",
+   "note": "Nifty now closer to 22,700."
+  },
+  "56": {
+   "label": "CURRENT_PRICE",
+   "note": "'22,589 is currently where the nifty is at'."
+  },
+  "57": {
+   "label": "CURRENT_PRICE",
+   "note": "Nifty is below 22600 mark now."
+  },
+  "58": {
+   "label": "CURRENT_PRICE",
+   "note": "Nifty above 22,600 as we speak."
+  },
+  "59": {
+   "label": "OTHER_PRICE",
+   "note": "Day's low point, not current level."
+  },
+  "60": {
+   "label": "UNCLEAR",
+   "note": "Number not present in visible (truncated) sentence."
+  },
+  "61": {
+   "label": "CURRENT_PRICE",
+   "note": "Bank Nifty now below 54,000 mark."
+  },
+  "62": {
+   "label": "CURRENT_PRICE",
+   "note": "Bank Nifty now at 53,9xx (truncated)."
+  },
+  "63": {
+   "label": "CURRENT_PRICE",
+   "note": "Nifty now back near 22700."
+  },
+  "64": {
+   "label": "OTHER_PRICE",
+   "note": "Day's low on Nifty."
+  },
+  "65": {
+   "label": "CURRENT_PRICE",
+   "note": "22,740 is where we are at."
+  },
+  "66": {
+   "label": "CURRENT_PRICE",
+   "note": "Nifty as of now at 22,735."
+  },
+  "67": {
+   "label": "CURRENT_PRICE",
+   "note": "Nifty continues to hold on to 22700 as of now."
+  },
+  "68": {
+   "label": "OTHER_PRICE",
+   "note": "Day's low Nifty recovered from."
+  },
+  "69": {
+   "label": "CURRENT_PRICE",
+   "note": "Trading somewhere around 22700 level."
+  },
+  "70": {
+   "label": "UNCLEAR",
+   "note": "Misspoken fragment, corrected to 22,672."
+  },
+  "71": {
+   "label": "UNCLEAR",
+   "note": "Misspoken fragment, corrected to 22,672."
+  },
+  "72": {
+   "label": "CURRENT_PRICE",
+   "note": "'22,672 is where the nifty is trading'."
+  },
+  "73": {
+   "label": "CURRENT_PRICE",
+   "note": "'22,679 is currently where it's at'."
+  },
+  "74": {
+   "label": "UNCLEAR",
+   "note": "Earlier above 22700; unclear if currently at it."
+  },
+  "75": {
+   "label": "UNCLEAR",
+   "note": "Number not present in visible (truncated) sentence."
+  },
+  "76": {
+   "label": "UNCLEAR",
+   "note": "Number not present in visible (truncated) sentence."
+  },
+  "77": {
+   "label": "NOT_A_PRICE",
+   "note": "Share quantity (250 shares)."
+  },
+  "78": {
+   "label": "UNCLEAR",
+   "note": "Number not present in visible (truncated) sentence. Mentions support of 400."
+  },
+  "79": {
+   "label": "CURRENT_PRICE",
+   "note": "Nifty breaking 22,400 mark now."
+  },
+  "80": {
+   "label": "OTHER_PRICE",
+   "note": "Expected test/support level 22,000."
+  },
+  "81": {
+   "label": "OTHER_PRICE",
+   "note": "Viewer's holding price."
+  },
+  "82": {
+   "label": "OTHER_PRICE",
+   "note": "Broken major support zone."
+  },
+  "83": {
+   "label": "UNCLEAR",
+   "note": "Number not present in visible (truncated) sentence."
+  },
+  "84": {
+   "label": "UNCLEAR",
+   "note": "Number not present in visible (truncated) sentence."
+  },
+  "85": {
+   "label": "CURRENT_PRICE",
+   "note": "Nifty holding above 22,500 now."
+  },
+  "86": {
+   "label": "UNCLEAR",
+   "note": "Number not present in visible (truncated) sentence."
+  },
+  "87": {
+   "label": "OTHER_PRICE",
+   "note": "Long-term support level for HDFC Bank."
+  },
+  "88": {
+   "label": "CURRENT_PRICE",
+   "note": "Nifty crashed below 22,600 now."
+  },
+  "89": {
+   "label": "OTHER_PRICE",
+   "note": "Level already lost; now below 22,600."
+  },
+  "90": {
+   "label": "CURRENT_PRICE",
+   "note": "Nifty already went below 22,600; current break."
+  },
+  "91": {
+   "label": "UNCLEAR",
+   "note": "Number not present in visible (truncated) sentence."
+  },
+  "92": {
+   "label": "NOT_A_PRICE",
+   "note": "Share quantity (100 shares)."
+  },
+  "93": {
+   "label": "UNCLEAR",
+   "note": "Number not present in visible (truncated) sentence. Discusses Action Construction/Ather, not IOC."
+  },
+  "94": {
+   "label": "UNCLEAR",
+   "note": "Number not present in visible (truncated) sentence."
+  },
+  "95": {
+   "label": "UNCLEAR",
+   "note": "Number not present in visible (truncated) sentence."
+  },
+  "96": {
+   "label": "UNCLEAR",
+   "note": "Number not present in visible (truncated) sentence. Text about Motherson wiring, not SBI."
+  },
+  "97": {
+   "label": "OTHER_PRICE",
+   "note": "Viewer's holding price for HDFC Bank."
+  },
+  "98": {
+   "label": "CURRENT_PRICE",
+   "note": "Nifty not sustaining above 22,700; currently just below."
+  },
+  "99": {
+   "label": "OTHER_PRICE",
+   "note": "Support zone for BSE."
+  },
+  "100": {
+   "label": "UNCLEAR",
+   "note": "Number not present in visible (truncated) sentence."
+  },
+  "101": {
+   "label": "UNCLEAR",
+   "note": "Number not present in visible (truncated) sentence. Text about Smartworks, not DLF."
+  },
+  "102": {
+   "label": "OTHER_PRICE",
+   "note": "Trend-change level for Apollo Hospital."
+  },
+  "103": {
+   "label": "OTHER_PRICE",
+   "note": "Viewer's holding price."
+  },
+  "104": {
+   "label": "UNCLEAR",
+   "note": "Number not present in visible (truncated) sentence."
+  },
+  "105": {
+   "label": "UNCLEAR",
+   "note": "Number not present in visible (truncated) sentence."
+  }
+ }
+}

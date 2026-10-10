@@ -1,0 +1,94 @@
+{
+ "rows": [
+  {
+   "recording": "20261006T073646Z/tv18",
+   "full": {
+    "status": "IDENTIFIED",
+    "day": "2026-10-06",
+    "candidate_days": 1,
+    "tau_radius_s": 30.0
+   },
+   "price_only": {
+    "status": "IDENTIFIED",
+    "day": "2026-10-06",
+    "candidate_days": 1,
+    "tau_radius_s": 30.0
+   }
+  },
+  {
+   "recording": "20261006T082354Z/tv18",
+   "full": {
+    "status": "IDENTIFIED",
+    "day": "2026-10-06",
+    "candidate_days": 1,
+    "tau_radius_s": 15.0
+   },
+   "price_only": {
+    "status": "IDENTIFIED",
+    "day": "2026-10-06",
+    "candidate_days": 1,
+    "tau_radius_s": 15.0
+   }
+  },
+  {
+   "recording": "20261006T090506Z/tv18",
+   "full": {
+    "status": "IDENTIFIED",
+    "day": "2026-10-06",
+    "candidate_days": 1,
+    "tau_radius_s": 25.0
+   },
+   "price_only": {
+    "status": "IDENTIFIED",
+    "day": "2026-10-06",
+    "candidate_days": 1,
+    "tau_radius_s": 25.0
+   }
+  },
+  {
+   "recording": "20261006T094547Z/tv18",
+   "full": {
+    "status": "ABSTAIN",
+    "day": null,
+    "candidate_days": 0
+   },
+   "price_only": {
+    "status": "ABSTAIN",
+    "day": null,
+    "candidate_days": 0
+   }
+  },
+  {
+   "recording": "sample:tv18_nifty_bank_1301",
+   "full": {
+    "status": "IDENTIFIED",
+    "day": "2026-10-06",
+    "candidate_days": 1,
+    "tau_radius_s": 4.0
+   },
+   "price_only": {
+    "status": "WEAK",
+    "day": "2026-10-06",
+    "candidate_days": 1,
+    "stretches": 2,
+    "span_radius_s": 732.5
+   }
+  },
+  {
+   "recording": "sample:tv18_nifty_levels_1250",
+   "full": {
+    "status": "WEAK",
+    "day": "2026-10-06",
+    "candidate_days": 1,
+    "stretches": 10,
+    "span_radius_s": 2015.0
+   },
+   "price_only": {
+    "status": "ABSTAIN",
+    "day": null,
+    "candidate_days": 3
+   }
+  }
+ ],
+ "note": "price_only = identical pipeline with the day-high ratchet constraint removed"
+}

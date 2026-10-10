@@ -1,0 +1,101 @@
+{
+ "videos": [
+  "KtWu1u48Ugo",
+  "RXry5886DoY",
+  "eGXXjbYHAFg",
+  "hUMrgXBpiaU",
+  "qf3PWESFTaU",
+  "rkEp0B66Ijc",
+  "txOK73SWe2M",
+  "yDPJT76Ta_4"
+ ],
+ "claims_extracted": 770,
+ "checkable": 141,
+ "verdicts_checkable": {
+  "Consistent with available records": 67,
+  "Not enough evidence": 73,
+  "Contradicted by available records": 1
+ },
+ "by_type_verdict": {
+  "CALL | Not a checkable claim": 39,
+  "HISTORICAL | Consistent with available records": 2,
+  "HISTORICAL | Contradicted by available records": 1,
+  "HISTORICAL | Not a checkable claim": 38,
+  "HISTORICAL | Not enough evidence": 39,
+  "HYPOTHETICAL | Not a checkable claim": 20,
+  "QUOTE | Consistent with available records": 65,
+  "QUOTE | Not a checkable claim": 248,
+  "QUOTE | Not enough evidence": 34,
+  "TARGET | Not a checkable claim": 95,
+  "UNCLASSIFIED | Not a checkable claim": 189
+ },
+ "runtime_s": 12.6
+}
+Consistent w eGXXjbYHAFg 09-30 10:09:28 QUOTE ['MAXHEALTH'] 935.0 consistent | I'm expecting more weakness in the short term. Currently trading around 935. One can look to create short positions. The immediate target wo
+Consistent w eGXXjbYHAFg 09-30 10:12:43 QUOTE ['^BSESN'] 72800.0 consistent | The bigger reason for this are the macros. They're improving. We've seen a decline in crude prices overnight post the rollover. So lower bra
+Consistent w eGXXjbYHAFg 09-30 10:59:01 QUOTE ['^NSEI'] 22700.0 None | So those are uh some of the important uh you know data points that we're tracking. At the same time we will wrap up on this edition of chart
+Consistent w eGXXjbYHAFg 09-30 11:03:10 QUOTE ['^NSEBANK'] 54765.0 consistent | >> Hi Mangla. New series but same old story isn't it? I mean September has been gruesome. Yes, 1300 points lost on the nifty but we're manag
+Consistent w eGXXjbYHAFg 09-30 12:52:51 QUOTE ['^NSEI'] 22800.0 consistent | >> Welcome back to halftime report on CNBC TV18. Nifty uh is you know touched the 22,800 mark came off a slight bit but yes that's the day h
+Consistent w eGXXjbYHAFg 09-30 12:52:51 QUOTE ['^NSEI'] 22800.0 consistent | >> Welcome back to halftime report on CNBC TV18. Nifty uh is you know touched the 22,800 mark came off a slight bit but yes that's the day h
+Consistent w eGXXjbYHAFg 09-30 13:01:54 QUOTE ['^NSEI'] 22700.0 None | I'm Arunati Raman and with me as always Hermas Vatakia Hermas good afternoon seeing a recovery there in the markets now the nifty above that
+Consistent w eGXXjbYHAFg 09-30 14:08:39 QUOTE ['TMPV'] 300.0 consistent | >> So well for now I would just taking at take it as a trading strategy because the trend is really down. So I would say yes bounceback can 
+Consistent w eGXXjbYHAFg 09-30 14:27:50 QUOTE ['^NSEI'] 22650.0 None | Well, it looked like a much better screen at 1:00 when the markets had climbed above 22,800 and after that there [music] has been a sell-off
+Consistent w hUMrgXBpiaU 10-01 09:18:12 QUOTE ['HDFCBANK'] 700.0 consistent | >> Well, the recent underperformers actually are fighting back today. Kotak Mahindra Bank that's clearly taken the new MD appointment for th
+Consistent w hUMrgXBpiaU 10-01 09:31:51 QUOTE ['^NSEI'] 22565.0 consistent | >> Okay. Um Sep thank you very much uh appreciate you joining in and uh interesting points um towards the end and of course I mean you know 
+Consistent w hUMrgXBpiaU 10-01 10:35:49 QUOTE ['^BSESN'] 72000.0 consistent | >> Uh good morning Mangalam, good morning Niger. Uh clearly I think October is a significant uh you know month from an expiry perspective. W
+Consistent w hUMrgXBpiaU 10-01 10:35:49 QUOTE ['^NSEI'] 23000.0 None | >> Uh good morning Mangalam, good morning Niger. Uh clearly I think October is a significant uh you know month from an expiry perspective. W
+Consistent w hUMrgXBpiaU 10-01 10:39:23 QUOTE ['^NSEI'] 23000.0 consistent | >> All right take that point Sachi. Thanks a lot for that. So long on the index only after 23,000 on the nifty until then it is just a bounc
+Consistent w hUMrgXBpiaU 10-01 11:28:21 QUOTE ['^NSEI'] 22550.0 consistent | So, what explains this decline that we're seeing despite the two largest components doing extremely well, it's the auto pack. And that's wha
+Consistent w hUMrgXBpiaU 10-01 11:57:03 QUOTE ['^NSEI'] 22555.0 consistent | Welcome back. 22,555 on the Nifty, 63 points down, while the Sensex is lower by 115 points in the last one hour. We haven't incrementally de
+Consistent w hUMrgXBpiaU 10-01 12:21:23 QUOTE ['^NSEI'] 22500.0 None | Currently sitting with a gain of almost 170 points. At peak it was a little over 55,000, a little around 55,100. now sitting with a gain of 
+Consistent w hUMrgXBpiaU 10-01 12:46:56 QUOTE ['^NSEI'] 22411.0 consistent | Welcome back. Well, 22,411 is currently where the Nifty is at. So, there is a significant pressure which is coming in incrementally as the d
+Consistent w hUMrgXBpiaU 10-01 12:51:38 QUOTE ['^NSEI'] 22400.0 None | >> The smidge of recovery that we saw on the nifty has been sold into so vehemently. We've seen the nifty fall below the 22400 mark as well 
+Consistent w hUMrgXBpiaU 10-01 12:51:47 QUOTE ['^NSEI'] 22400.0 None | So it's like butter through sorry hot knife through butter right now. You know look at the nifty down 250 points. The nifty bank which is ho
+Consistent w hUMrgXBpiaU 10-01 13:02:58 QUOTE ['^NSEI'] 22350.0 consistent | I'm Hormas Fataka and the day has taken a bit of a nose dive in the last 30 minutes. What was already a forgettable week is now turning into
+Consistent w KtWu1u48Ugo 10-01 09:31:46 QUOTE ['^NSEI'] 22565.0 consistent | >> Okay. Um SEP thank you very much uh appreciate you joining in and uh interesting points um towards the end and of course I mean you know 
+Consistent w KtWu1u48Ugo 10-01 10:27:11 QUOTE ['LEMONTREE'] 110.0 consistent | >> Uh it's a considered call within the bank. uh we looked at various aspects and then came to this conclusion but as of now this is a decis
+Consistent w KtWu1u48Ugo 10-01 10:35:43 QUOTE ['^BSESN'] 72000.0 consistent | >> Uh good morning Mangalam, good morning Nigel. Uh clearly I think October is a significant uh you know month from an expiry perspective. W
+Consistent w KtWu1u48Ugo 10-01 10:35:43 QUOTE ['^NSEI'] 23000.0 None | >> Uh good morning Mangalam, good morning Nigel. Uh clearly I think October is a significant uh you know month from an expiry perspective. W
+Consistent w KtWu1u48Ugo 10-01 10:39:16 QUOTE ['^NSEI'] 23000.0 consistent | >> All right take that point Sachi. Thanks a lot for that. So long on the index only after 23,000 on the Nifty. Until then, it is just a bou
+Consistent w KtWu1u48Ugo 10-01 11:28:16 QUOTE ['^NSEI'] 22550.0 consistent | So what explains this decline that we're seeing despite the two largest components doing extremely well? It's the auto pack. And that's what
+Consistent w KtWu1u48Ugo 10-01 11:56:58 QUOTE ['^NSEI'] 22555.0 consistent | >> Welcome back. 22,555 on the nifty 63 points down while the Sensex is lower by 115 points. in the last one are we haven't incrementally de
+Consistent w KtWu1u48Ugo 10-01 12:21:18 QUOTE ['^NSEI'] 22500.0 None | Currently sitting at the gain of almost 170 points. At peak, it was a little over 55,000, a little around 55,100. Now sitting with a gain of
+Consistent w KtWu1u48Ugo 10-01 12:46:54 QUOTE ['^NSEI'] 22411.0 consistent | >> Welcome back. Well, 22,411 is currently where the Nifty is at. So, there is a significant pressure which is coming in incrementally as th
+Consistent w KtWu1u48Ugo 10-01 12:51:37 QUOTE ['^NSEI'] 22400.0 None | >> The smidge of recovery that we saw on the Nifty has been sold into so vehemently. We've seen the nifty fall below the 22400 mark as well 
+Consistent w KtWu1u48Ugo 10-01 12:51:45 QUOTE ['^NSEI'] 22400.0 None | So it's like butter through hot knife through butter right now. You know, look at the nifty down 250 points. The nifty bank which was holdin
+Consistent w KtWu1u48Ugo 10-01 13:02:57 QUOTE ['^NSEI'] 22350.0 consistent | I'm Hormus Fataka and the day has taken a bit of a nose dive in the last 30 minutes. What was already a forgettable week is now turning into
+Consistent w qf3PWESFTaU 09-29 09:15:26 QUOTE ['^BSESN'] 72536.0 consistent | Uh the Sensex is down about a third of a percent 72,536.
+Consistent w qf3PWESFTaU 09-29 09:17:01 QUOTE ['^NSEI'] 22700.0 consistent | Kofforge sees [music] a up move of about 1 and a half%. But it's a muted start and the Nifty is now closer to 22,700 with a 70 point [music]
+Consistent w qf3PWESFTaU 09-29 09:18:25 QUOTE ['^NSEI'] 22700.0 consistent | >> Okay. Well uh 70 odd points lower is what we have coming through [music] and uh 22,700 still uh is the rate that we are [music] working w
+Consistent w qf3PWESFTaU 09-29 10:37:21 QUOTE ['^NSEI'] 22589.0 consistent | 22,589 is currently where the nifty is at. So, it's a rapid fall that we're seeing down around 8/10 of a percent. We'll do one thing, we'll 
+Consistent w qf3PWESFTaU 09-29 10:40:53 QUOTE ['^NSEI'] 22600.0 None | >> Welcome back. Even as the Nifty is below the 22600 mark, it'll be very interesting to see whether the market sees some sort of recovery i
+Consistent w qf3PWESFTaU 09-29 10:56:17 QUOTE ['^NSEI'] 22600.0 None | Kalyan rulers holding up with a gain of around 6/10 of a percent. For the markets, there's a little bit of a pullback which has taken place 
+Consistent w qf3PWESFTaU 09-29 10:58:00 QUOTE ['^NSEI'] 22600.0 None | So if you had a meaningful drop in oil, I think Indian markets would be in better shape. The second is I think basically the US AI story is 
+Consistent w qf3PWESFTaU 09-29 11:03:02 QUOTE ['^NSEBANK'] 54000.0 None | 22,596 as we speak. We've seen a very little recovery. Uh but all the recovery that we're seeing is immediately getting sold into. see that 
+Consistent w qf3PWESFTaU 09-29 11:03:02 QUOTE ['^NSEBANK'] 53928.0 consistent | 22,596 as we speak. We've seen a very little recovery. Uh but all the recovery that we're seeing is immediately getting sold into. see that 
+Consistent w qf3PWESFTaU 09-29 11:16:12 QUOTE ['^NSEI'] 22700.0 consistent | >> And just in a matter of minutes, we have seen a very sharp recovery from the lows of the day for the markets. The Nifty is now back near 
+Consistent w qf3PWESFTaU 09-29 11:30:19 HISTORICAL ['^NSEI'] 22570.0 None | Today's low becomes an important mark to track. 22570 is what the low on the nifty is and the advanced decline as well. When we started trad
+Consistent w qf3PWESFTaU 09-29 12:01:54 HISTORICAL ['^NSEI'] 22569.0 None | I'm Aktabatra and with me is Vini Motivivala. Well a day is turning out to be a day where we did see a choppy choppy first half but we are s
+Consistent w qf3PWESFTaU 09-29 12:12:33 QUOTE ['^NSEI'] 22740.0 consistent | So 20 22,740 is where we are at. And there's been a good good improvement which has come in for the advanced decline ratio. So currently sta
+Consistent w qf3PWESFTaU 09-29 12:16:23 QUOTE ['^NSEI'] 22735.0 consistent | Nifty as of now at 22,735 740 levels. Obviously a good recovery that we've seen from the day's lowest point. Uh whether it sustains and cont
+Consistent w qf3PWESFTaU 09-29 12:26:23 QUOTE ['^NSEI'] 22700.0 consistent | >> Yeah, thank you for having me on the show. Uh let's go with Nifty50 first. I mean if you look at Nifty50 uh today Nifty has recovered ver
+Consistent w qf3PWESFTaU 09-29 12:48:26 QUOTE ['^NSEI'] 22672.0 consistent | >> Welcome back to Halime report on CNBC TV8. Meanwhile, Nifty again has come off from the day's high and it's seeing a fall 23,000 uh 22,00
+Consistent w qf3PWESFTaU 09-29 12:55:39 QUOTE ['^NSEI'] 22679.0 consistent | >> Welcome back. Well, for the Nifty, 22,679 is currently where it's at. In terms of specific stocks which are managing to hold up, we've be
+Consistent w qf3PWESFTaU 09-29 13:01:38 QUOTE ['^NSEI'] 22700.0 None | >> Hi Hermas. Good afternoon. You know the m market's back in the red. There seems to be no respite. We saw the nifty above 22,700 but you k
+Consistent w qf3PWESFTaU 09-29 13:30:10 QUOTE ['^NSEI'] 22700.0 consistent | Good afternoon and welcome to Midcap Radar live from the CNBC TV8 Motila Losal studio. I'm Vive Hay and with me is Mangalam Malu. Good after
+Consistent w qf3PWESFTaU 09-29 14:28:33 QUOTE ['^NSEI'] 22700.0 None | >> Well, that was the day so far and markets have extended their aggressive selloff for the second consecutive day as we speak. 1 hour to go
+Consistent w qf3PWESFTaU 09-29 14:28:33 QUOTE ['^NSEI'] 22700.0 None | >> Well, that was the day so far and markets have extended their aggressive selloff for the second consecutive day as we speak. 1 hour to go
+Consistent w rkEp0B66Ijc 10-01 11:08:05 QUOTE ['CDSL'] 1300.0 consistent | >> NSDL and CDSL both are holds at this point. Actually I would recommend buys actually not even just holds. I think there is great growth o
+Consistent w rkEp0B66Ijc 10-01 11:24:54 QUOTE ['SWIGGY'] 250.0 consistent | Uh has 250 shares at the levels of 390.
+Consistent w rkEp0B66Ijc 10-01 12:54:17 QUOTE ['^NSEI'] 22400.0 None | So that is somewhere slightly uh positive as we speak. But clearly sharp fall in Nifty50. We are breaking the 22,400 mark down over 1% today
+Consistent w rkEp0B66Ijc 10-01 13:09:29 QUOTE ['^NSEI'] 22000.0 consistent | >> No no no I'm not negative on Indian markets at all nifty50 or nifty the broader markets as a whole. I think uh let's wait for 22,000 beca
+Consistent w RXry5886DoY 10-05 09:17:19 QUOTE ['^NSEI'] 22500.0 consistent | >> Yeah, I think there's a divergence in the IT story and the impact of Accenture and we'll just pull that up in a bit. In case you're wonde
+Consistent w RXry5886DoY 10-05 14:00:01 QUOTE ['^NSEI'] 22500.0 None | Good afternoon. We are watching the afternoon edition of our profit with me Somit Zkar. In the last half an hour we have seen a strong uh up
+Consistent w txOK73SWe2M 09-29 09:37:53 QUOTE ['^NSEI'] 22600.0 None | Internally 1 is to5 on the advanced decline ratio right now. And it's not just the nifty. Yeah, there we go. We have crashed below 22,600. I
+Consistent w txOK73SWe2M 09-29 10:47:49 QUOTE ['GMRAIRPORT'] 100.0 consistent | He's asking about GMR airports. uh he's uh holding 100 odd shares at the levels of 45 and wants to know whether to continue to hold this one
+Consistent w txOK73SWe2M 09-29 11:07:07 QUOTE ['SBIN'] 1000.0 None | >> 37. Got it. Also tapan a quick view if you have on mother wiring as well because we we have a with with transmission also listing there's
+Consistent w txOK73SWe2M 09-29 13:03:01 QUOTE ['^NSEI'] 22700.0 None | But before we do that, let's take a very quick look at the markets. And it seems like it is a very bad day still for the Nifty. When you see
+Consistent w txOK73SWe2M 09-29 14:50:26 QUOTE ['BSE'] 3000.0 consistent | 1725, 1730, good support zone. So, you could focus on that. BSE, yes, like I've said in the past, I continue to like BSE. 3,000 is the uh, y
+Consistent w txOK73SWe2M 09-29 15:26:51 QUOTE ['^NSEBANK'] 54100.0 consistent | >> Okay. All right. So that's the view coming on access bank. Of course uh we'll be tracking by the way uh the gap that you were talking abo
+Consistent w yDPJT76Ta_4 09-30 14:05:30 QUOTE ['APOLLOHOSP', 'APOLLOTYRE'] 8000.0 None | >> Basically I think uh one should book out if they are in gains. Yeah, >> especially in like the names like 40s, Kim and Maidanta, Apollo H
+Contradicted yDPJT76Ta_4 09-30 15:17:43 HISTORICAL ['^NSEI'] 24616.6 None | >> In all likelihood it is. You know this is a market where the winners are you know very clearly identifiable and you know they continue to

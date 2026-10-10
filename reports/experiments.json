@@ -1,0 +1,316 @@
+{
+ "generated": "2026-10-10T00:04:39+00:00",
+ "E1_screen_ticker": {
+  "20261006T071609Z": {
+   "role": "held-out",
+   "per_channel_rule_verdicts": {
+    "Not a checkable claim": 236,
+    "Contradicted by available records": 49,
+    "Consistent with available records": 105,
+    "Not enough evidence": 1
+   },
+   "layout_check": {
+    "passed": false,
+    "plausible_fraction": 0.394,
+    "n_checked": 391,
+    "threshold": 0.9
+   },
+   "used_after_layout_check": 0,
+   "unused:this recording's ticker failed": 1018,
+   "consistent_rate_of_used": null,
+   "contradicted_rate_of_used": null
+  },
+  "20261006T073646Z": {
+   "role": "held-out",
+   "per_channel_rule_verdicts": {
+    "Not a checkable claim": 281,
+    "Consistent with available records": 133,
+    "Contradicted by available records": 57,
+    "Not enough evidence": 1
+   },
+   "layout_check": {
+    "passed": false,
+    "plausible_fraction": 0.403,
+    "n_checked": 472,
+    "threshold": 0.9
+   },
+   "used_after_layout_check": 0,
+   "unused:this recording's ticker failed": 1167,
+   "consistent_rate_of_used": null,
+   "contradicted_rate_of_used": null
+  },
+  "20261006T080326Z": {
+   "role": "held-out",
+   "per_channel_rule_verdicts": {
+    "Consistent with available records": 111,
+    "Not a checkable claim": 248,
+    "Contradicted by available records": 50
+   },
+   "layout_check": {
+    "passed": false,
+    "plausible_fraction": 0.394,
+    "n_checked": 409,
+    "threshold": 0.9
+   },
+   "used_after_layout_check": 0,
+   "unused:this recording's ticker failed": 1121,
+   "consistent_rate_of_used": null,
+   "contradicted_rate_of_used": null
+  },
+  "20261006T082354Z": {
+   "role": "held-out",
+   "per_channel_rule_verdicts": {
+    "Not a checkable claim": 178,
+    "Consistent with available records": 84,
+    "Contradicted by available records": 39,
+    "Not enough evidence": 1
+   },
+   "layout_check": {
+    "passed": false,
+    "plausible_fraction": 0.411,
+    "n_checked": 302,
+    "threshold": 0.9
+   },
+   "used_after_layout_check": 0,
+   "unused:this recording's ticker failed": 784,
+   "consistent_rate_of_used": null,
+   "contradicted_rate_of_used": null
+  },
+  "20261006T084431Z": {
+   "role": "layout validated here (in-sample)",
+   "per_channel_rule_verdicts": {
+    "Consistent with available records": 240,
+    "Not a checkable claim": 7
+   },
+   "layout_check": {
+    "passed": true,
+    "plausible_fraction": 0.972,
+    "n_checked": 247,
+    "threshold": 0.9
+   },
+   "used_after_layout_check": 247,
+   "Consistent with available records": 240,
+   "unused:read in only 1 frame": 194,
+   "unused:name not resolved to an instru": 418,
+   "Not a checkable claim": 7,
+   "consistent_rate_of_used": 0.972,
+   "contradicted_rate_of_used": 0.0
+  },
+  "20261006T090506Z": {
+   "role": "held-out",
+   "per_channel_rule_verdicts": {
+    "Not a checkable claim": 292,
+    "Consistent with available records": 138,
+    "Contradicted by available records": 56
+   },
+   "layout_check": {
+    "passed": false,
+    "plausible_fraction": 0.399,
+    "n_checked": 486,
+    "threshold": 0.9
+   },
+   "used_after_layout_check": 0,
+   "unused:this recording's ticker failed": 1271,
+   "consistent_rate_of_used": null,
+   "contradicted_rate_of_used": null
+  },
+  "20261006T092529Z": {
+   "role": "held-out",
+   "per_channel_rule_verdicts": {
+    "Not a checkable claim": 279,
+    "Contradicted by available records": 38,
+    "Consistent with available records": 120,
+    "Not enough evidence": 1
+   },
+   "layout_check": {
+    "passed": false,
+    "plausible_fraction": 0.361,
+    "n_checked": 438,
+    "threshold": 0.9
+   },
+   "used_after_layout_check": 0,
+   "unused:this recording's ticker failed": 1135,
+   "consistent_rate_of_used": null,
+   "contradicted_rate_of_used": null
+  },
+  "_heldout_total": {
+   "used": 0,
+   "consistent": 0,
+   "contradicted": 0,
+   "insufficient": 0
+  }
+ },
+ "E1_screen_ticker_runtime_s": 38.3,
+ "E2_spoken_heldout": {
+  "data": "8 full-day YouTube live streams (NDTV Profit x4, CNBC-TV18 x4), 2026-09-29..10-05, market hours, YouTube auto-captions",
+  "labels": "independent LLM subagent, blind to verdicts, 105 sentence windows centred on the number (first labelling round had truncated sentences - our error - and was redone)",
+  "v1_frozen_heldout": {
+   "summary": {
+    "Consistent with available records": 68,
+    "Not enough evidence": 37,
+    "Contradicted by available records": 37
+   },
+   "vs_labels": {
+    "contradicted": {
+     "OTHER_PRICE": 28,
+     "NOT_A_PRICE": 4,
+     "CURRENT_PRICE": 2,
+     "WRONG_INSTRUMENT": 2,
+     "UNCLEAR": 1
+    },
+    "consistent": {
+     "OTHER_PRICE": 17,
+     "CURRENT_PRICE": 48,
+     "NOT_A_PRICE": 2,
+     "UNCLEAR": 1
+    },
+    "contradiction_precision_vs_CURRENT_PRICE": 0.054,
+    "consistent_on_CURRENT_PRICE": 48,
+    "consistent_total": 68
+   }
+  },
+  "v21_after_repair_IN_SAMPLE": {
+   "summary": {
+    "Consistent with available records": 67,
+    "Not enough evidence": 73,
+    "Contradicted by available records": 1
+   },
+   "vs_labels": {
+    "contradicted": {
+     "CURRENT_PRICE": 1
+    },
+    "consistent": {
+     "OTHER_PRICE": 17,
+     "CURRENT_PRICE": 43,
+     "NOT_A_PRICE": 2
+    },
+    "contradiction_precision_vs_CURRENT_PRICE": 1.0,
+    "consistent_on_CURRENT_PRICE": 43,
+    "consistent_total": 62
+   }
+  }
+ },
+ "E2_spoken_heldout_runtime_s": 0.0,
+ "E3_controlled_manipulations": {
+  "n_base_quotes": 50,
+  "note": "SYNTHETIC alterations of real, blind-confirmed current-price quotes",
+  "A0 unaltered": {
+   "n": 50,
+   "Consistent with available records": 50,
+   "still_consistent_rate": 1.0,
+   "contradicted_rate": 0.0
+  },
+  "A1 shifted by 40 % of its rounding tolerance (expect consistent)": {
+   "n": 50,
+   "Consistent with available records": 50,
+   "still_consistent_rate": 1.0,
+   "contradicted_rate": 0.0
+  },
+  "B1 [exact] +2%": {
+   "n": 29,
+   "Contradicted by available records": 29,
+   "still_consistent_rate": 0.0,
+   "contradicted_rate": 1.0
+  },
+  "B2 [exact] -2%": {
+   "n": 29,
+   "Contradicted by available records": 29,
+   "still_consistent_rate": 0.0,
+   "contradicted_rate": 1.0
+  },
+  "B3 [exact] +5%": {
+   "n": 29,
+   "Contradicted by available records": 29,
+   "still_consistent_rate": 0.0,
+   "contradicted_rate": 1.0
+  },
+  "C1 [exact] previous trading day": {
+   "n": 29,
+   "Contradicted by available records": 27,
+   "Consistent with available records": 2,
+   "still_consistent_rate": 0.069,
+   "contradicted_rate": 0.931
+  },
+  "D1 wrong instrument": {
+   "n": 48,
+   "Not a checkable claim": 48,
+   "still_consistent_rate": 0.0,
+   "contradicted_rate": 0.0
+  },
+  "B1 [inequality] 2% in the falsifying direction": {
+   "n": 21,
+   "Contradicted by available records": 20,
+   "Consistent with available records": 1,
+   "still_consistent_rate": 0.048,
+   "contradicted_rate": 0.952
+  },
+  "B3 [inequality] 5% in the falsifying direction": {
+   "n": 21,
+   "Contradicted by available records": 20,
+   "Consistent with available records": 1,
+   "still_consistent_rate": 0.048,
+   "contradicted_rate": 0.952
+  },
+  "C1 [inequality] previous trading day": {
+   "n": 21,
+   "Consistent with available records": 9,
+   "Contradicted by available records": 12,
+   "still_consistent_rate": 0.429,
+   "contradicted_rate": 0.571
+  }
+ },
+ "E3_controlled_manipulations_runtime_s": 1.3,
+ "E4_resources": {
+  "market_load_s": 0.654,
+  "market_load_peak_MB": 99.9,
+  "tv18_nifty_levels_1250": {
+   "live_analysis_s": 0.259,
+   "peak_traced_MB": 1.7,
+   "offline_stages": {
+    "read_video": 903.4,
+    "listen": 21.3
+   },
+   "clip_s": 260.0
+  },
+  "tv18_nifty_bank_1301": {
+   "live_analysis_s": 0.206,
+   "peak_traced_MB": 1.6,
+   "offline_stages": {
+    "read_video": 382.2,
+    "listen": 9.0
+   },
+   "clip_s": 110.0
+  },
+  "ndtv_viewer_questions_1412": {
+   "live_analysis_s": 0.605,
+   "peak_traced_MB": 1.5,
+   "offline_stages": {
+    "read_video": 1725.5,
+    "listen": 12.3
+   },
+   "clip_s": 140.0
+  },
+  "synthetic_trade_claims": {
+   "live_analysis_s": 0.161,
+   "peak_traced_MB": 1.5,
+   "offline_stages": {},
+   "clip_s": null
+  },
+  "process_rss_MB": 137.4,
+  "storage_MB": {
+   "market_files": {
+    "ohlcv_1m_20260929_20261008.npz": 10.29,
+    "tape_lohi_1m_20260910_20261008.npz": 9.64
+   },
+   "demo_samples": 12.1,
+   "code_kB": 156.4
+  },
+  "asr_offline": {
+   "files": 16,
+   "audio_s": 18626.0,
+   "runtime_s": 1612.7,
+   "real_time_factor": 0.087
+  }
+ },
+ "E4_resources_runtime_s": 2.0
+}
