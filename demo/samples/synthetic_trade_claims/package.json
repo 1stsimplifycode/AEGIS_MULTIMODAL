@@ -1,0 +1,194 @@
+{
+ "meta": {
+  "id": "synthetic_trade_claims",
+  "kind": "synthetic",
+  "synthetic": true,
+  "title": "Made-up 'I bought…' claims (synthetic test cases)",
+  "description": "Seven invented personal-trade claims checked against real NSE records: a realistic one, a wrong price, an impossible quantity, a market holiday, an ambiguous name, no time, and after-hours.",
+  "channel_name": "No video (typed claims)",
+  "recorded_ist": null,
+  "duration_s": null,
+  "source": "synthetic, written by the project team",
+  "clip": [
+   0,
+   0
+  ],
+  "media": null,
+  "thumbnail": null,
+  "use_date": null,
+  "use_date_source": "not applicable (no video)",
+  "presenter_status": "unknown",
+  "live_capture": false
+ },
+ "clock": null,
+ "transcript": null,
+ "screen": {
+  "observations": []
+ },
+ "typed_claims": [
+  {
+   "id": "s1",
+   "type": "PERSONAL_TRADE",
+   "role": "execution_price",
+   "sentence": "I bought 1,800 shares of ITC at ₹265.50 at 10:31 AM.",
+   "instrument_span": "ITC",
+   "candidates": [
+    "ITC"
+   ],
+   "ambiguous": false,
+   "value": 265.5,
+   "tolerance": 0.05,
+   "tolerance_why": "stated to the paisa; tolerance ±0.05 (tick)",
+   "quantity": 1800,
+   "stated_date": "2026-10-06",
+   "stated_time_epoch": 1791262890.0,
+   "stated_time_text": "2026-10-06 10:31 IST (stated)",
+   "t_media": null,
+   "why_type": [
+    "synthetic first-person trade claim"
+   ],
+   "synthetic_purpose": "realistic claim"
+  },
+  {
+   "id": "s2",
+   "type": "PERSONAL_TRADE",
+   "role": "execution_price",
+   "sentence": "I sold 2,000 shares of TCS at ₹2,150 at 11:15.",
+   "instrument_span": "TCS",
+   "candidates": [
+    "TCS"
+   ],
+   "ambiguous": false,
+   "value": 2150.0,
+   "tolerance": 0.05,
+   "tolerance_why": "stated to the paisa; tolerance ±0.05 (tick)",
+   "quantity": 2000,
+   "stated_date": "2026-10-06",
+   "stated_time_epoch": 1791265530.0,
+   "stated_time_text": "2026-10-06 11:15 IST (stated)",
+   "t_media": null,
+   "why_type": [
+    "synthetic first-person trade claim"
+   ],
+   "synthetic_purpose": "price outside the traded range"
+  },
+  {
+   "id": "s3",
+   "type": "PERSONAL_TRADE",
+   "role": "execution_price",
+   "sentence": "I bought 50 lakh shares of Grasim at ₹2,955.50 at 2:20 PM.",
+   "instrument_span": "Grasim",
+   "candidates": [
+    "GRASIM"
+   ],
+   "ambiguous": false,
+   "value": 2955.5,
+   "tolerance": 0.05,
+   "tolerance_why": "stated to the paisa; tolerance ±0.05 (tick)",
+   "quantity": 5000000,
+   "stated_date": "2026-10-06",
+   "stated_time_epoch": 1791276630.0,
+   "stated_time_text": "2026-10-06 14:20 IST (stated)",
+   "t_media": null,
+   "why_type": [
+    "synthetic first-person trade claim"
+   ],
+   "synthetic_purpose": "quantity larger than NSE volume"
+  },
+  {
+   "id": "s4",
+   "type": "PERSONAL_TRADE",
+   "role": "execution_price",
+   "sentence": "I bought 100 Reliance shares at ₹1,180 on 2 October at 11 AM.",
+   "instrument_span": "Reliance",
+   "candidates": [
+    "RELIANCE"
+   ],
+   "ambiguous": false,
+   "value": 1180.0,
+   "tolerance": 0.05,
+   "tolerance_why": "stated to the paisa; tolerance ±0.05 (tick)",
+   "quantity": 100,
+   "stated_date": "2026-10-02",
+   "stated_time_epoch": 1790919030.0,
+   "stated_time_text": "2026-10-02 11:00 IST (stated)",
+   "t_media": null,
+   "why_type": [
+    "synthetic first-person trade claim"
+   ],
+   "synthetic_purpose": "market holiday"
+  },
+  {
+   "id": "s5",
+   "type": "PERSONAL_TRADE",
+   "role": "execution_price",
+   "sentence": "I bought 100 HDFC at ₹712.70 at 1 PM.",
+   "instrument_span": "HDFC",
+   "candidates": [
+    "HDFCAMC",
+    "HDFCBANK",
+    "HDFCLIFE"
+   ],
+   "ambiguous": true,
+   "value": 712.7,
+   "tolerance": 0.05,
+   "tolerance_why": "stated to the paisa; tolerance ±0.05 (tick)",
+   "quantity": 100,
+   "stated_date": "2026-10-06",
+   "stated_time_epoch": 1791271830.0,
+   "stated_time_text": "2026-10-06 13:00 IST (stated)",
+   "t_media": null,
+   "why_type": [
+    "synthetic first-person trade claim"
+   ],
+   "synthetic_purpose": "ambiguous name (three HDFC companies)"
+  },
+  {
+   "id": "s6",
+   "type": "PERSONAL_TRADE",
+   "role": "execution_price",
+   "sentence": "I bought 500 Infosys shares at ₹1,030 on 5 October.",
+   "instrument_span": "Infosys",
+   "candidates": [
+    "INFY"
+   ],
+   "ambiguous": false,
+   "value": 1030.0,
+   "tolerance": 0.05,
+   "tolerance_why": "stated to the paisa; tolerance ±0.05 (tick)",
+   "quantity": 500,
+   "stated_date": "2026-10-05",
+   "stated_time_epoch": null,
+   "stated_time_text": "2026-10-05 (no time stated)",
+   "t_media": null,
+   "why_type": [
+    "synthetic first-person trade claim"
+   ],
+   "synthetic_purpose": "no time stated"
+  },
+  {
+   "id": "s7",
+   "type": "PERSONAL_TRADE",
+   "role": "execution_price",
+   "sentence": "I bought 200 SBI shares at ₹800 at 4:10 PM.",
+   "instrument_span": "SBI",
+   "candidates": [
+    "SBIN"
+   ],
+   "ambiguous": false,
+   "value": 800.0,
+   "tolerance": 0.05,
+   "tolerance_why": "stated to the paisa; tolerance ±0.05 (tick)",
+   "quantity": 200,
+   "stated_date": "2026-10-06",
+   "stated_time_epoch": 1791283230.0,
+   "stated_time_text": "2026-10-06 16:10 IST (stated)",
+   "t_media": null,
+   "why_type": [
+    "synthetic first-person trade claim"
+   ],
+   "synthetic_purpose": "time outside market hours"
+  }
+ ],
+ "offline_stages": {}
+}
