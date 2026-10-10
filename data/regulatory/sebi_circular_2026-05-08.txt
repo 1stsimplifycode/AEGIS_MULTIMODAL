@@ -1,0 +1,145 @@
+ 
+Page 1 of 4 
+ 
+ 
+CIRCULAR 
+ 
+HO/47/17/12(11)2025-MRD-POD3/I/11107/2026 
+                                    May 08, 2026
+ 
+ 
+                               
+ 
+To  
+ 
+ 
+All Recognized Stock Exchanges  
+All Recognized Clearing Corporations 
+All Depositories  
+All Registered Intermediaries  
+BSE Limited (Administration and Supervisory Body for Investment Advisers and 
+Research Analysts- IAASB/RAASB) 
+ 
+Sir/Madam, 
+ 
+Subject: Norms for sharing and usage of price data for educational purposes 
+ 
+1. SEBI vide Circular No. SEBI/HO/MRD/MRD-PoD-3/P/CIR/2024/56 dated May 24, 2024, 
+inter alia, prescribed Norms for sharing of real time price data to third parties by Stock 
+Exchanges, Clearing Corporations, Depositories (collectively referred to as Market 
+Infrastructure Institutions (MIIs)) and registered market intermediaries. The said norms 
+restricted sharing of real time price data only for orderly functioning of the securities 
+market or for fulfilling regulatory requirements, and prescribed a time lag of one day for 
+sharing of price data for educational and awareness activities. 
+ 
+2. Subsequently, SEBI vide Circular No.SEBI/HO/MIRSD/MIRSD-PoD-1/P/CIR/2025/11 
+dated January 29, 2025 further tightened the norms by stipulating that entities solely 
+engaged in education may use the price data only with a lag of three months.  
+ 
+3. The purposes of these two circulars were different. The Circular dated May 24, 2024 
+allowed exchanges to share data for educational purposes with a time lag of one day, 
+while the Circular dated January 29, 2025 operates after that as to how much old data 
+
+ 
+Page 2 of 4 
+ 
+ 
+can be actually used for sole educational purposes and for that a time lag of three 
+months had been prescribed. 
+ 
+4. Based on feedback received from various stakeholders that the lag of one day for 
+sharing of price data is very short and there is possibility of mis-use of the same, and lag 
+of three months for usage of the price data being too long for educational purposes; and 
+subsequent comments received through public consultation, it has been decided to 
+prescribe a time lag of 30 days for both sharing and usage of price data for educational 
+purposes.  
+ 
+5. National Institute of Securities Markets (NISM) is a capacity building initiative of SEBI 
+and has an important role in imparting SEBI mandated training and certification 
+programmes as well as training SEBI officers and market intermediaries. Therefore, it 
+has been decided that NISM may have access to market price data, with a lag of one 
+day, for the purpose of usage in its simulation lab. 
+ 
+6. Accordingly, the relevant provisions of SEBI Circulars dated May 24, 2024 and January 
+29, 2025 have been modified as under: 
+ 
+6.1. Paragraphs 
+2(iii) 
+& 
+(iv) 
+of 
+SEBI 
+Circular 
+No. 
+SEBI/HO/MRD/MRD-PoD-
+3/P/CIR/2024/56 dated May 24, 2024 on “Norms for sharing of real time price data to 
+third parties” stands modified as under: 
+ 
+“2(iii). Market price data may be shared for investor education and awareness activities 
+without offering any kind of monetary incentive to the participants, with a lag of thirty 
+days. However, the market price data may be shared with National Institute of 
+Securities Markets (NISM) with a lag of one day only for the purpose of usage in its 
+simulation lab. For this purpose, the MIIs or the market intermediaries shall also enter 
+into appropriate legal agreement with entities/persons with whom the data is being 
+shared.  
+ 
+2(iv). MIIs and market intermediaries shall ensure due diligence while sharing such 
+data. The legal agreement for sharing the data shall have provisions to prevent any 
+
+ 
+Page 3 of 4 
+ 
+ 
+kind of misuse of the same by the entities/persons including maintenance of audit 
+trail for usage of such data.”  
+ 
+6.2. Question No.8 of FAQ at Annexure-A of SEBI Circular No. SEBI/HO/MIRSD/MIRSD-
+PoD-1/P/CIR/2025/11 dated January 29, 2025 on “Details/clarifications on provisions 
+related to association of persons regulated by the Board, MIIs, and their agents with 
+persons engaged in prohibited activities” stands modified as under: 
+ 
+“8. What distinguishes education and advice/recommendation? 
+ 
+A person engaged solely in education shall mean that such person is not engaged in 
+any of the two prohibited activities. Such person should not be using the market price 
+data of the preceding thirty days to speak/talk/display the name of any security 
+including using any code name of the security in his/her talk/speech, video, ticker, 
+screen share etc. indicating the future price, advice or recommendation related to 
+security or securities. However, the National Institute of Securities Markets (NISM) can 
+use the market price data with a lag of one day only for the purpose of usage in its 
+simulation lab.” 
+ 
+7. Applicability: The provisions of the circular shall be applicable with effect from July 01, 
+2026.  
+ 
+8. All MIIs are advised to:  
+8.1. take necessary steps and put in place necessary systems for implementation of the 
+above. 
+8.2. make necessary amendments to the relevant bye-laws, rules and regulations, 
+wherever required, for the implementation of the above; and.  
+8.3. bring the provisions of this circular to the notice of the market participants (including 
+investors) and disseminate the same on their website. 
+ 
+9. This circular is issued in exercise of the powers conferred under section 11(1) of the 
+Securities and Exchange Board of India Act 1992 read with regulation 51 of the 
+Securities Contracts (Regulation) (Stock Exchanges and Clearing Corporations) 
+
+ 
+Page 4 of 4 
+ 
+ 
+Regulations, 2018, section 26(3) of the Depositories Act, 1996 and regulation 97 of 
+Securities and Exchange Board of India (Depositories and Participants) Regulations, 
+2018 to protect the interests of investors in securities and to promote the development 
+of, and to regulate the securities market. 
+ 
+10. This circular is available on SEBI website at www.sebi.gov.in at “Legal Framework - 
+Circulars.”                                 
+ 
+Yours faithfully, 
+ 
+Hruda Ranjan Sahoo 
+General Manager 
+Tel no.: 022-26449586 
+Email: hrsahoo@sebi.gov.in 
+ 

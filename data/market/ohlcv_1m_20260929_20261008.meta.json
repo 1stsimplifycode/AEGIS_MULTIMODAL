@@ -1,0 +1,24 @@
+{
+ "provider": "Yahoo Finance chart endpoint (public, unauthenticated)",
+ "endpoint": "https://query1.finance.yahoo.com/v8/finance/chart/",
+ "interval": "1m",
+ "symbols": "NSE (.NS) + indices; BSE volume NOT included",
+ "days": [
+  "2026-09-29",
+  "2026-09-30",
+  "2026-10-01",
+  "2026-10-02",
+  "2026-10-05",
+  "2026-10-06",
+  "2026-10-07",
+  "2026-10-08"
+ ],
+ "retrieved_utc": "2026-10-09T23:16:22.567049+00:00",
+ "seconds": 76.7,
+ "n_symbols": 427,
+ "n_errors": 0,
+ "errors": {},
+ "sha256": "58c56b91f383770b70a670f08e9d092de472865cb0b0eb86299fdbc581508c02",
+ "missing_minute_fraction": 0.19281030444964872,
+ "licence_note": "Yahoo data are for personal/research use; redistribution in a public deployment may require a licensed exchange data feed. The hosted demo ships only the minutes needed for its samples (see docs/DATA_AUDIT.md)."
+}
