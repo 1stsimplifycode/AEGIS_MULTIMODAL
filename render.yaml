@@ -1,18 +1,14 @@
-# Render Blueprint for "Did That Trade Really Happen?" (Capstone Review 2, PW26_SSS_08).
-# NOTE: Render reads a Blueprint from the repository ROOT. The repository root already has a render.yaml for the earlier
-# Review-2 app, which this project must not overwrite. Either (a) create a Web Service manually with the settings below, or
-# (b) copy this service block into the root render.yaml. See README.md "Deploy on Render" - including the media/data
-# licensing decision that must be made BEFORE deploying publicly.
+# Render Blueprint - "Did That Trade Really Happen?" (Capstone Review 2, PW26_SSS_08)
+# The app is at the repository root. Free plan; the service sleeps when idle and wakes on the first request (~1 min).
 services:
   - type: web
     name: did-that-trade-really-happen
     runtime: python
     plan: free
-    rootDir: "CAPSTONE REVIEW 2_MULTIMODAL_PW26_SSS_08"
     buildCommand: pip install -r requirements.txt
     startCommand: uvicorn backend.app:app --host 0.0.0.0 --port $PORT
     healthCheckPath: /api/health
-    autoDeploy: false
+    autoDeploy: true
     envVars:
       - key: PYTHON_VERSION
         value: 3.12.10
